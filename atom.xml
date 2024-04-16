@@ -3,11 +3,11 @@
   <title>lxshuai</title>
   
   
-  <link href="https://lxshuai.top/atom.xml" rel="self"/>
+  <link href="https://joblxs.github.io/atom.xml" rel="self"/>
   
-  <link href="https://lxshuai.top/"/>
-  <updated>2024-04-16T12:43:53.197Z</updated>
-  <id>https://lxshuai.top/</id>
+  <link href="https://joblxs.github.io/"/>
+  <updated>2024-04-16T14:15:56.921Z</updated>
+  <id>https://joblxs.github.io/</id>
   
   <author>
     <name>shuai</name>
@@ -17,9 +17,285 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>免费知乎盐选分享</title>
+    <link href="https://joblxs.github.io/a0bffb7f.html"/>
+    <id>https://joblxs.github.io/a0bffb7f.html</id>
+    <published>2024-04-16T14:14:37.000Z</published>
+    <updated>2024-04-16T14:15:56.921Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>来源于其他网站，仅供学习参考</p></blockquote><table><thead><tr><th style="text-align:center">网站</th><th style="text-align:center">地址</th></tr></thead><tbody><tr><td style="text-align:center">缘起星球</td><td style="text-align:center"><a href="http://www.imeiman.cn">http://www.imeiman.cn</a></td></tr><tr><td style="text-align:center">好故事</td><td style="text-align:center"><a href="https://nicestory.net">https://nicestory.net</a></td></tr><tr><td style="text-align:center">知乎语雀盐选库</td><td style="text-align:center"><a href="https://www.yuque.com/dayuyu-ualcu/azo1ge">https://www.yuque.com/dayuyu-ualcu/azo1ge</a> 密码：rydw</td></tr><tr><td style="text-align:center">我不是盐神</td><td style="text-align:center"><a href="https://onehu.xyz">https://onehu.xyz</a></td></tr><tr><td style="text-align:center">盐神阁</td><td style="text-align:center"><a href="http://www.juhaowan.club">http://www.juhaowan.club</a></td></tr><tr><td style="text-align:center">知知</td><td style="text-align:center"><a href="https://www.jkxuexi.com/zhizhi">https://www.jkxuexi.com/zhizhi</a></td></tr><tr><td style="text-align:center">趣集·故事盐选</td><td style="text-align:center"><a href="https://ifun.cool/zhihuyanxuan">https://ifun.cool/zhihuyanxuan</a></td></tr><tr><td style="text-align:center">盐选书阁</td><td style="text-align:center"><a href="https://yx.cbge.top/">https://yx.cbge.top/</a></td></tr></tbody></table>]]></content>
+    
+    
+    <summary type="html">免费知乎盐选分享</summary>
+    
+    
+    
+    <category term="其它" scheme="https://joblxs.github.io/categories/%E5%85%B6%E5%AE%83/"/>
+    
+    
+    <category term="share" scheme="https://joblxs.github.io/tags/share/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>虚拟机安装Windows7</title>
+    <link href="https://joblxs.github.io/63a02cb8.html"/>
+    <id>https://joblxs.github.io/63a02cb8.html</id>
+    <published>2024-04-16T14:12:52.000Z</published>
+    <updated>2024-04-16T14:14:23.506Z</updated>
+    
+    <content type="html"><![CDATA[<h1>虚拟机安装Windows7</h1><h3 id="准备">准备</h3><ol><li><p>下载安装VMware Workstation（VM17）</p></li><li><p>windows_7_旗舰版镜像（cn_windows_7_旗舰版64）</p></li></ol><h3 id="安装">安装</h3><h4 id="新建虚拟机">新建虚拟机</h4><ul><li>打开VMware17，创建新虚拟机，并选择典型安装<br><img src="../static/annex/Pasted%20image%2020230624203959.png" alt=""></li><li>选择稍后安装操作系统，下一步<br><img src="../static/annex/Pasted%20image%2020231029144724.png" alt=""></li><li>选择Microsoft Windows，选择版本为Windows 7 x64，下一步<br><img src="../static/annex/Pasted%20image%2020231029144936.png" alt=""></li><li>设置名称及选择安装的位置，进行下一步<br><img src="../static/annex/Pasted%20image%2020231029145247.png" alt=""></li><li>设定磁盘大小，选择将虚拟磁盘存储为单个文件，进行下一步<br><img src="../static/annex/Pasted%20image%2020231029145348.png" alt=""></li><li>自定义硬件，设定好之后，点击完成<br><img src="../static/annex/Pasted%20image%2020231029145458.png" alt=""><br><img src="../static/annex/Pasted%20image%2020231029145639.png" alt=""></li></ul><h4 id="开启虚拟机">开启虚拟机</h4><ul><li>选择开启此虚拟机<br><img src="../static/annex/Pasted%20image%2020231029145953.png" alt=""></li><li>选择安装语言，下一步<br><img src="../static/annex/Pasted%20image%2020231029150118.png" alt=""></li><li>选择现在安装<br><img src="../static/annex/Pasted%20image%2020231029150157.png" alt=""></li><li>接受许可条款，下一步<br><img src="../static/annex/Pasted%20image%2020231029150313.png" alt=""></li><li>选择自定义安装<br><img src="../static/annex/Pasted%20image%2020231029150328.png" alt=""></li><li>选择磁盘，下一步<br><img src="../static/annex/Pasted%20image%2020231029150343.png" alt=""></li><li>等待安装<br><img src="../static/annex/Pasted%20image%2020231029150410.png" alt=""></li><li>设置用户名，下一步<br><img src="../static/annex/Pasted%20image%2020231029151108.png" alt=""></li><li>设置密码，下一步<br><img src="../static/annex/Pasted%20image%2020231029151151.png" alt=""></li><li>取消勾选当我联机时自动勾选，下一步<br><img src="../static/annex/Pasted%20image%2020231029151320.png" alt=""></li><li>选择使用推荐设置<br><img src="../static/annex/Pasted%20image%2020231029151444.png" alt=""></li><li>直接下一步<br><img src="../static/annex/Pasted%20image%2020231029151717.png" alt=""></li><li>选择公用网络<br><img src="../static/annex/Pasted%20image%2020231029151733.png" alt=""></li><li>安装完成<br><img src="../static/annex/Pasted%20image%2020231029151943.png" alt=""></li></ul><h3 id="配置">配置</h3><h4 id="安装VMwaer-Tools">安装VMwaer Tools</h4><ul><li>点击虚拟机——安装VM-tools</li></ul><blockquote><p>安装出问题，先不折腾了<br><img src="../static/annex/Pasted%20image%2020231029152245.png" alt=""><br><img src="../static/annex/Pasted%20image%2020231029152319.png" alt=""><br><img src="../static/annex/Pasted%20image%2020231029152340.png" alt=""><br><img src="../static/annex/Pasted%20image%2020231029152448.png" alt=""><br><img src="../static/annex/Pasted%20image%2020231029152503.png" alt=""><br><img src="../static/annex/Pasted%20image%2020231029152615.png" alt=""></p></blockquote>]]></content>
+    
+    
+    <summary type="html">使用VMware安装Windows7及相关配置</summary>
+    
+    
+    
+    <category term="VMware" scheme="https://joblxs.github.io/categories/VMware/"/>
+    
+    
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="虚拟机" scheme="https://joblxs.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>虚拟机安装ubuntu20.04</title>
+    <link href="https://joblxs.github.io/VMware.html"/>
+    <id>https://joblxs.github.io/VMware.html</id>
+    <published>2024-04-16T14:11:35.000Z</published>
+    <updated>2024-04-16T14:13:42.983Z</updated>
+    
+    <content type="html"><![CDATA[<h1># 虚拟机安装Ubuntu</h1><h3 id="准备">准备</h3><ol><li><p>下载安装VMware Workstation（VM17）</p></li><li><p>Ubuntu镜像（Ubuntu20.04）</p></li></ol><h3 id="安装">安装</h3><h4 id="新建虚拟机">新建虚拟机</h4><ul><li>打开VMware17，创建新虚拟机，并选择典型安装</li></ul><p><img src="../static/annex/Pasted%20image%2020230624203959.png" alt=""></p><ul><li>点击浏览，选择下载好Ubuntu系统镜像，点击下一步<br><img src="../static/annex/Pasted%20image%2020230624203900.png" alt=""></li><li>输入用户名，进行下一步<br><img src="../static/annex/Pasted%20image%2020230624204207.png" alt=""></li><li>设置名称及选择安装的位置，进行下一步<br><img src="../static/annex/Pasted%20image%2020230624204410.png" alt=""></li><li>设定磁盘大小，选择将虚拟磁盘存储为单个文件，进行下一步<br><img src="../static/annex/Pasted%20image%2020230624204512.png" alt=""></li><li>自定义硬件，设定好之后，点击完成<br><img src="../static/annex/Pasted%20image%2020230624204620.png" alt=""><br><img src="../static/annex/Pasted%20image%2020230624204746.png" alt=""></li></ul><h4 id="开启虚拟机">开启虚拟机</h4><ul><li>点击开启此虚拟机，等待安装<br><img src="../static/annex/Pasted%20image%2020230624204916.png" alt=""></li><li>点击登录<br><img src="../static/annex/Pasted%20image%2020230624210035.png" alt=""><br><img src="../static/annex/Pasted%20image%2020230624210128.png" alt=""></li><li>关闭，设置网络<br><img src="../static/annex/Pasted%20image%2020230624211352.png" alt=""></li></ul><h4 id="配置">配置</h4><h6 id="设置为中文">- 设置为中文</h6><p><img src="../static/annex/Pasted%20image%2020230624210223.png" alt=""><br><img src="../static/annex/Pasted%20image%2020230624211631.png" alt=""><br><img src="../static/annex/Pasted%20image%2020230624211817.png" alt=""></p><ul><li>选择<br><img src="../static/annex/Pasted%20image%2020230624211946.png" alt=""><br><img src="../static/annex/Pasted%20image%2020230624212053.png" alt=""><br><img src="../static/annex/Pasted%20image%2020230624212449.png" alt=""></li><li>如果这时不能设置，先设置时区<br><img src="../static/annex/Pasted%20image%2020230624212747.png" alt=""></li></ul><h6 id="设置时区">- 设置时区</h6><ul><li>打开设置，选择date &amp; time，设置Time Zone<br><img src="../static/annex/Pasted%20image%2020230624213421.png" alt=""></li><li>选择东八区，如果看不到关闭按钮，先进行分辨率的设置<br><img src="../static/annex/Pasted%20image%2020230624214031.png" alt=""></li></ul><h6 id="设置分辨率">- 设置分辨率</h6><ul><li>打开终端，安装open-vm-tools<br><img src="../static/annex/Pasted%20image%2020230624214225.png" alt=""></li><li>更新系统源</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get update</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020230624214419.png" alt=""></p><ul><li>安装open-vm-tools</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install open-vm-tools</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020230624214555.png" alt=""></p><ul><li>安装完毕后再次回到设置时区设置<br><img src="../static/annex/Pasted%20image%2020230624214724.png" alt=""></li><li>再次回到设置语言设置页<br><img src="../static/annex/Pasted%20image%2020230624214821.png" alt=""></li><li>点击重启<br><img src="../static/annex/Pasted%20image%2020230624214833.png" alt=""></li><li>设置中文完毕<br><img src="../static/annex/Pasted%20image%2020230624215015.png" alt=""></li><li>改完中文键盘<br><img src="../static/annex/Pasted%20image%2020230624210551.png" alt=""><br><img src="%E8%99%9A%E6%8B%9F%E6%9C%BA/annex/Pasted%20image%2020230624210643.png" alt="虚拟机/annex/Pasted image 20230624210643.png"><br><img src="%E8%99%9A%E6%8B%9F%E6%9C%BA/annex/Pasted%20image%2020230624210706.png" alt="虚拟机/annex/Pasted image 20230624210706.png"></li></ul><p><img src="../static/annex/Pasted%20image%2020230624210803.png" alt=""></p><h6 id="跨系统复制粘贴">- 跨系统复制粘贴</h6><ul><li>安装open-vm-tools-desktop，实现虚拟机和物理机之间的文件相互拖拽和复制、粘贴</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get remove open-vm-tools-desktop -y</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install open-vm-tools-desktop</span><br></pre></td></tr></table></figure><h6 id="更改Ubuntu软件源">-  更改Ubuntu软件源</h6><p><img src="../static/annex/Pasted%20image%2020230624220950.png" alt=""></p><ul><li>选择下载自：其他站点<br><img src="../static/annex/Pasted%20image%2020230624221153.png" alt=""></li></ul>]]></content>
+    
+    
+    <summary type="html">使用VMware Workstation安装Ubuntu20.04及相关配置</summary>
+    
+    
+    
+    <category term="VMware" scheme="https://joblxs.github.io/categories/VMware/"/>
+    
+    
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="虚拟机" scheme="https://joblxs.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>虚拟机安装macOS13.20</title>
+    <link href="https://joblxs.github.io/2aea3f72.html"/>
+    <id>https://joblxs.github.io/2aea3f72.html</id>
+    <published>2024-04-16T14:09:40.000Z</published>
+    <updated>2024-04-16T14:13:38.633Z</updated>
+    
+    <content type="html"><![CDATA[<h1>虚拟机安装macOS</h1><blockquote><p>体验了一下13.2.0版太卡，又安装了macOS10.15版，比13.2.0版快很多</p></blockquote><h3 id="准备">准备</h3><ol><li><p>下载安装VMware Workstation（VM17）</p></li><li><p>解锁VM虚拟机的MAC补丁 [Unlocker]</p></li><li><p>安装VMwaer Tools，需要darwin.iso文件</p></li><li><p>macOS镜像（macOS13.2）</p></li></ol><h3 id="安装">安装</h3><h4 id="解锁VMware">解锁VMware</h4><ul><li><p>打开任务管理器，停掉所有VMware的服务。</p></li><li><p>打开Unlocker，以管理员身份运行win-install.cmd 以解锁虚拟机</p></li></ul><p><img src="../static/annex/2023-06-23-18-58-30-image.png" alt=""></p><h4 id="新建虚拟机">新建虚拟机</h4><ul><li>打开VMware17，创建新虚拟机，并选择典型安装</li></ul><p><img src="../static/annex/2023-06-23-19-01-05-image.png" alt=""></p><ul><li><p>点击浏览，选择下载好macOS系统的文件夹</p></li><li><p>选择系统镜像，选择好镜像文件以后点击下一步</p></li></ul><p><img src="../static/annex/2023-06-23-19-03-08-image.png" alt=""></p><ul><li>选择Apple macOS X，最下面选择安装的系统版本，选择安装的版本，并进行下一步</li></ul><p><img src="../static/annex/2023-06-23-19-05-08-image.png" alt=""></p><ul><li>定义名称，及选择安装的位置，并进行下一步</li></ul><p><img src="../static/annex/2023-06-23-19-08-55-image.png" alt=""></p><ul><li>分配磁盘容量，选择将虚拟磁盘存储为单个文件，并进行下一步</li></ul><p><img src="../static/annex/2023-06-23-19-10-23-image.png" alt=""></p><ul><li>自定义硬件设定虚拟机的内存、网络模式等</li></ul><p><img src="../static/annex/2023-06-23-19-11-59-image.png" alt=""></p><p><img src="../static/annex/2023-06-23-19-19-50-image.png" alt=""></p><ul><li>设置完成，打开保存虚拟机文件的目录，找到.vmx结尾的文件，打开在末尾添加smc.version = 0</li></ul><p><img src="../static/annex/2023-06-23-22-32-22-image.png" alt=""></p><h4 id="开启虚拟机">开启虚拟机</h4><p><img src="../static/annex/2023-06-23-19-20-31-image.png" alt=""></p><ul><li>选择简体中文</li></ul><p><img src="../static/annex/2023-06-23-19-22-21-image.png" alt=""></p><ul><li><p>选择磁盘工具</p></li><li><p>选择VMware开头的磁盘，点击「磁盘工具」四个字下面的「抹掉」给磁盘起一个名字，点击「抹掉」按钮，点击完成</p></li><li><p>然后点击磁盘工具左上角的关闭按钮关闭</p></li></ul><p><img src="../static/annex/2023-06-23-19-23-40-image.png" alt=""></p><p><img src="../static/annex/2023-06-23-19-25-58-image.png" alt=""></p><ul><li>安装macOS到抹掉并重命名为shuai的磁盘，等待安装完成</li></ul><p><img src="../static/annex/2023-06-23-19-29-58-image.png" alt=""></p><p><img src="../static/annex/2023-06-23-19-31-16-image.png" alt=""></p><p><img src="../static/annex/2023-06-23-19-32-47-image.png" alt=""></p><h4 id="引导">引导</h4><ul><li>地区选择中国，键盘选择简体中文，之后无脑继续</li></ul><p><img src="../static/annex/2023-06-23-20-14-02-image.png" alt=""></p><ul><li>选择以后，网络设置-继续</li></ul><p><img src="../static/annex/2023-06-23-20-14-55-image.png" alt=""></p><p><img src="../static/annex/2023-06-23-20-19-46-image.png" alt=""></p><ul><li>数据迁移，以后</li></ul><p><img src="../static/annex/2023-06-23-20-20-27-image.png" alt=""></p><p><img src="../static/annex/2023-06-23-20-20-59-image.png" alt=""></p><ul><li>创建账户和密码</li></ul><p><img src="../static/annex/2023-06-23-20-22-18-image.png" alt=""></p><ul><li>选择地区</li></ul><p><img src="../static/annex/2023-06-23-20-31-18-image.png" alt=""></p><ul><li>安装完毕</li></ul><p><img src="../static/annex/2023-06-23-20-37-02-image.png" alt=""></p><h3 id="配置">配置</h3><h5 id="调试网络">调试网络</h5><p><img src="../static/annex/2023-06-23-20-40-21-image.png" alt=""></p><ul><li>关闭客户机，编辑虚拟机设置</li></ul><p>ps：调试了半天，最后还是选择桥接模式可以连接网络了，如果选择桥接模式没有网，在进行下边操作试试</p><p><img src="../static/annex/2023-06-24-02-48-41-image.png" alt=""></p><h4 id="安装VMwaer-Tools">安装VMwaer Tools</h4><ul><li>如果无法安装，下载darwin.iso</li></ul><p><img src="../static/annex/2023-06-23-23-54-09-image.png" alt=""></p><ul><li>选择下载好的darwin.iso文件</li></ul><p><img src="../static/annex/2023-06-24-03-00-48-image.png" alt=""></p><p>重新启动macOs</p><p><img src="../static/annex/2023-06-23-23-41-14-image.png" alt=""></p><p><img src="../static/annex/2023-06-23-23-41-26-image.png" alt=""></p><p><img src="../static/annex/2023-06-23-23-51-25-image.png" alt=""></p><ul><li>如果安装失败，偏好设置允许</li></ul><hr><hr><blockquote><p>以下是网络不可用时折腾（可忽略）</p></blockquote><ul><li>网络适配器，网络连接选择NAT模式，确定</li></ul><p><img src="../static/annex/2023-06-23-21-39-15-image.png" alt=""></p><p>设备状态-已连接设置；打开cmd，输入services.msc</p><p><img src="../static/annex/2023-06-23-21-44-56-image.png" alt=""></p><p>把框起来的这三项，右键-启动，启动后变成正在运行</p><p><img src="../static/annex/2023-06-23-21-47-19-image.png" alt=""></p><ul><li>打开控制面板，搜索网络连接</li></ul><p><img src="../static/annex/2023-06-23-21-43-32-image.png" alt=""></p><ul><li>找到VMnet8的连接，右键属性–&gt;共享</li></ul><p><img src="../static/annex/2023-06-23-21-29-45-image.png" alt=""></p><ul><li>勾选允许其他网络用户通过此计算机的Internet连接来连接</li><li>选择VMware</li></ul><p><img src="../static/annex/2023-06-23-21-30-29-image.png" alt=""></p>]]></content>
+    
+    
+    <summary type="html">使用VMware Workstation安装macOS13.20及相关配置</summary>
+    
+    
+    
+    <category term="VMware" scheme="https://joblxs.github.io/categories/VMware/"/>
+    
+    
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="虚拟机" scheme="https://joblxs.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vsCode安装和基本配置</title>
+    <link href="https://joblxs.github.io/298f1f26.html"/>
+    <id>https://joblxs.github.io/298f1f26.html</id>
+    <published>2024-04-16T14:07:14.000Z</published>
+    <updated>2024-04-16T14:09:01.146Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="vsCode安装">vsCode安装</h2><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Visual Studio Code 是一个轻量级功能强大的源代码编辑器，支持语法高亮、代码自动补全（又称 IntelliSense）、代码重构、查看定义功能，并且内置了命令行工具和 Git 版本控制系统。适用于 Windows、macOS 和 Linux。它内置了对 JavaScript、TypeScript 和 Node.js 的支持，并为其他语言和运行时（如 C++、C#、Java、Python、PHP、Go、.NET）提供了丰富的扩展生态系统。</span><br></pre></td></tr></table></figure><h4 id="vsCode下载">vsCode下载</h4><p>-下载地址： <a href="https://code.visualstudio.com/Download">Download Visual Studio Code - Mac, Linux, Windows</a></p><h4 id="vsCode安装-2">vsCode安装</h4><ul><li>同意协议<br><img src="../static/annex/Pasted%20image%2020230628201717.png" alt=""></li><li>浏览，选择安装的位置<br><img src="../static/annex/Pasted%20image%2020230628201849.png" alt=""></li><li>选择开始菜单文件夹<br><img src="../static/annex/Pasted%20image%2020230628201908.png" alt=""></li><li>选择附加任务<br><img src="../static/annex/Pasted%20image%2020230628202214.png" alt=""></li><li>准备安装<br><img src="../static/annex/Pasted%20image%2020230628202259.png" alt=""></li><li>安装完成<br><img src="../static/annex/Pasted%20image%2020230628202358.png" alt=""></li></ul><h2 id="基本配置">基本配置</h2><h4 id="插件篇">插件篇</h4><ul><li>Chinese-设置为中文</li><li>vscode-icons-改变编辑器里面的文件图标</li><li>Markdown Preview Github Styling-实时预览 markdown</li><li>GitLens-码农必备，操作git</li><li>Git History-查询所有 Git 记录的需求</li><li>Eva Theme - vsCode主题</li></ul>]]></content>
+    
+    
+    <summary type="html">vsCode安装和基本配置、常用插件</summary>
+    
+    
+    
+    <category term="editor" scheme="https://joblxs.github.io/categories/editor/"/>
+    
+    
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>phpstudy安装</title>
+    <link href="https://joblxs.github.io/e2afa59c.html"/>
+    <id>https://joblxs.github.io/e2afa59c.html</id>
+    <published>2024-04-16T14:06:07.000Z</published>
+    <updated>2024-04-16T14:07:30.689Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="phpstudy简介">phpstudy简介</h2><p>``<br>phpStudy是一个PHP调试环境的程序集成包。<br>该程序包集成最新的Apache+PHP+MySQL+phpMyAdmin+ZendOptimizer，一次性安装,无须配置即可使用,是非常方便、好用的PHP调试环境.该程序不仅包括PHP调试环境，还包括了开发工具、开发手册等。总之学习PHP只需一个包。<br>对学习PHP的新手来说，Windows下环境配置是一件很困难的事；对老手来说也是一件烦琐的事。因此无论你是新手还是老手，该程序包都是一个不错的选择。</p><h2 id="下载">下载</h2><p>下载地址：<a href="https://www.xp.cn/download.html">Windows版phpstudy下载 - 小皮面板(phpstudy) (xp.cn)</a><br><img src="../static/annex/Pasted%20image%2020240412204222.png" alt=""></p><h2 id="安装">安装</h2><p>双击安装文件，phpstudy_x64_8.1.1.3.exe，选择安装路径<br><img src="../static/annex/Pasted%20image%2020240412204450.png" alt=""><br>安装完成，启动Nginx和MySQL，（要是想更改端口，在对应的服务后的配置中更改即可）<br><img src="../static/annex/Pasted%20image%2020240412204707.png" alt=""></p><h2 id="测试是否成功">测试是否成功</h2><p>如图在网站中打开网站，出现如下网站界面即安装成功：<a href="http://localhost/">站点创建成功-phpstudy for windows</a><br><img src="../static/annex/Pasted%20image%2020240412204848.png" alt=""><br><img src="../static/annex/Pasted%20image%2020240412204901.png" alt=""></p><h2 id="添加网站">添加网站#</h2><p><img src="../static/annex/Pasted%20image%2020240412205332.png" alt=""></p>]]></content>
+    
+    
+    <summary type="html">phpstudy安装和创建网站</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://joblxs.github.io/categories/PHP/"/>
+    
+    
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="php" scheme="https://joblxs.github.io/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nvm下载安装及node版本管理</title>
+    <link href="https://joblxs.github.io/5ae7bcc9.html"/>
+    <id>https://joblxs.github.io/5ae7bcc9.html</id>
+    <published>2024-04-16T14:03:36.000Z</published>
+    <updated>2024-04-16T14:05:45.597Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="nvm是什么？">nvm是什么？</h2><ul><li>nvm全名node.js version management，顾名思义是一个nodejs的版本管理工具。通过它可以安装和切换不同版本的nodejs。下面列出下载、安装及使用方法。</li></ul><h2 id="下载">下载</h2><ul><li>下载地址：<a href="https://github.com/coreybutler/nvm-windows/releases">Releases · coreybutler/nvm-windows (github.com)</a></li><li>nvm-noinstall.zip：绿色免安装版，但使用时需进行配置。</li><li>nvm-setup.zip：安装版，推荐使用<br><img src="../static/annex/Pasted%20image%2020240410210728.png" alt=""></li></ul><h2 id="安装">安装</h2><ul><li>双击安装文件 nvm-setup.exe，nest<br><img src="../static/annex/Pasted%20image%2020240412195058.png" alt=""></li><li>选择nvm安装路径<br><img src="../static/annex/Pasted%20image%2020240412195232.png" alt=""></li><li>选择nodejs路径<br><img src="../static/annex/Pasted%20image%2020240412195327.png" alt=""></li><li>确认安装即可<br><img src="../static/annex/Pasted%20image%2020240412195423.png" alt=""></li></ul><h2 id="nvm配置">nvm配置</h2><h3 id="环境变量配置">环境变量配置</h3><p>点击电脑-属性–高级系统设置-环境变量<br>用户变量和环境变量都需要新建2个环境变量：</p><ul><li>点击新建-变量名输入NVMHOME-变量值输入D:\nvm（即：nvm安装路径）</li><li>点击新建-变量名输入NVMSYMLINK-变量值输入D:\nodeJs（即：nodeJs路径）<br><img src="../static/annex/Pasted%20image%2020240412195949.png" alt=""></li><li>选择Path，后面追加【%NVMHOME%】、【%NVMSYMLINK%】属性变量<br><img src="../static/annex/Pasted%20image%2020240412200000.png" alt=""></li></ul><h3 id="安装完确认">安装完确认</h3><ul><li>打开CMD，输入命令 nvm ，安装成功则如下显示。<br><img src="../static/annex/Pasted%20image%2020240412195531.png" alt=""></li></ul><h3 id="nvm配置淘宝镜像">nvm配置淘宝镜像</h3><ul><li>打开cmd窗口 ,输入以下命令</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">nvm node_mirror https://npm.taobao.org/mirrors/node/</span><br><span class="line">nvm npm_mirror https://npm.taobao.org/mirrors/npm/</span><br></pre></td></tr></table></figure><ul><li>进入nvm安装路径下，打开setting.txt文件，显示如下<br><img src="../static/annex/Pasted%20image%2020240412200509.png" alt=""></li></ul><h5 id="由于淘宝镜像到期，已更换其他镜像">由于淘宝镜像到期，已更换其他镜像</h5><figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">nvm node_mirror https:<span class="regexp">//</span>npmmirror.com<span class="regexp">/mirrors/</span>node/</span><br><span class="line">nvm npm_mirror https:<span class="regexp">//</span>npmmirror.com<span class="regexp">/mirrors/</span>npm/</span><br></pre></td></tr></table></figure><h2 id="安装完成">安装完成</h2><h3 id="nvm常用命令">nvm常用命令</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">nvm list //展示本地安装的所有版本，*号表示当前正在用</span><br><span class="line">nvm install [版本号] //安装指定版本node 例如： nvm install 12.18.0</span><br><span class="line">nvm use 12.18.0 //使用特定版本</span><br><span class="line">nvm uninstall 12.18.0 //卸载指定版本</span><br></pre></td></tr></table></figure><h2 id="安装-管理node">安装/管理node</h2><h3 id="nvm下载node">nvm下载node</h3><ul><li>打开cmd窗口，输入命令：</li></ul><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">nvm</span> install <span class="number">12</span>.<span class="number">19</span>.<span class="number">0</span></span><br></pre></td></tr></table></figure><ul><li>安装完成<br><img src="../static/annex/Pasted%20image%2020240412201512.png" alt=""><br>下载完成后输入：</li></ul><figure class="highlight crmsh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">nvm use <span class="number">12.19</span>.<span class="number">0</span> //必须有输入这行命令后，<span class="keyword">node</span><span class="title">命令才会生效</span></span><br><span class="line"><span class="title"></span></span><br><span class="line"><span class="title">/*检查node</span>是否安装成功*/</span><br><span class="line"><span class="keyword">node</span> <span class="title">-v</span></span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020240412201650.png" alt=""></p><h2 id="node环境配置">node环境配置</h2><ul><li>还记得安装nvm时设置的nodeJs目录嘛？此目录是作为软连接目录，存放nvm当前指向node版本的内容，下面我们设置node的相关变量时都会基于此目录，这样nvm切换node不同版本时不会影响node环境变量</li></ul><h3 id="配置全局目录">配置全局目录</h3><ul><li>在nodeJS目录下手动创建全局文件存放目录node_global和缓存目录node_cache</li><li>cmd命令窗口输入</li></ul><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm<span class="built_in"> config </span><span class="built_in">set</span><span class="built_in"> prefix </span><span class="string">&quot;P:\**\nodeJs\node_global&quot;</span></span><br><span class="line">npm<span class="built_in"> config </span><span class="built_in">set</span> cache <span class="string">&quot;P:\**\nodeJs\node_cache&quot;</span></span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020240412202203.png" alt=""></p><h2 id="命令提示">命令提示</h2><p><code>nvm arch</code> ：显示node是运行在32位还是64位。<br><code>nvm install &lt;version&gt; [arch]</code> ：安装node， version是特定版本也可以是最新稳定版本latest。可选参数arch指定安装32位还是64位版本，默认是系统位数。可以添加–insecure绕过远程服务器的SSL。<br><code>nvm list [available] </code>：显示已安装的列表。可选参数available，显示可安装的所有版本。list可简化为ls。<br><code>nvm on</code> ：开启node.js版本管理。<br><code>nvm off</code> ：关闭node.js版本管理。<br><code>nvm proxy [url]</code> ：设置下载代理。不加可选参数url，显示当前代理。将url设置为none则移除代理。<br><code>nvm node_mirror [url]</code> ：设置node镜像。默认是https://nodejs.org/dist/。如果不写url，则使用默认url。设置后可至安装目录settings.txt文件查看，也可直接在该文件操作。<br><code>nvm npm_mirror [url] </code>：设置npm镜像。<a href="https://github.com/npm/cli/archive/%E3%80%82%E5%A6%82%E6%9E%9C%E4%B8%8D%E5%86%99url%EF%BC%8C%E5%88%99%E4%BD%BF%E7%94%A8%E9%BB%98%E8%AE%A4url%E3%80%82%E8%AE%BE%E7%BD%AE%E5%90%8E%E5%8F%AF%E8%87%B3%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95settings.txt%E6%96%87%E4%BB%B6%E6%9F%A5%E7%9C%8B%EF%BC%8C%E4%B9%9F%E5%8F%AF%E7%9B%B4%E6%8E%A5%E5%9C%A8%E8%AF%A5%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C%E3%80%82">https://github.com/npm/cli/archive/。如果不写url，则使用默认url。设置后可至安装目录settings.txt文件查看，也可直接在该文件操作。</a><br><code>nvm uninstall &lt;version&gt;</code> ：卸载指定版本node。<br><code>nvm use [version]</code> [arch] ：使用制定版本node。可指定32/64位。<br><code>nvm root [path]</code> ：设置存储不同版本node的目录。如果未设置，默认使用当前目录。<br><code>nvm version</code> ：显示nvm版本。version可简化为v。</p>]]></content>
+    
+    
+    <summary type="html">nvm下载安装及node版本管理</summary>
+    
+    
+    
+    <category term="nodeJs" scheme="https://joblxs.github.io/categories/nodeJs/"/>
+    
+    
+    <category term="nvm" scheme="https://joblxs.github.io/tags/nvm/"/>
+    
+    <category term="nodeJs" scheme="https://joblxs.github.io/tags/nodeJs/"/>
+    
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>本地上传项目至GitHub</title>
+    <link href="https://joblxs.github.io/1927d27d.html"/>
+    <id>https://joblxs.github.io/1927d27d.html</id>
+    <published>2024-04-16T13:59:08.000Z</published>
+    <updated>2024-04-16T14:00:26.411Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="在GitHub创建仓库">在GitHub创建仓库</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">git init //把这个目录变成Git可以管理的仓库</span><br><span class="line">git add . //不但可以跟单一文件，还可以跟通配符，更可以跟目录。一个点就把当前目录下所有未追踪的文件全部add了 </span><br><span class="line">git commit -m <span class="string">&quot;first commit&quot;</span> //把文件提交到仓库</span><br><span class="line">git remote add origin git@github.com:ashuai123/obsidian-theme.git //关联远程仓库</span><br><span class="line">git push -u origin master //把本地库的所有内容推送到远程库上</span><br></pre></td></tr></table></figure><ul><li><p>登录GitHub，创建仓库<br><img src="../static/annex/Pasted%20image%2020230626233737.png" alt=""></p></li><li><p>创建成功如下图<br><img src="../static/annex/Pasted%20image%2020230627212959.png" alt=""></p></li><li><p>安装及配置请看此文档：<a href="Git2.41%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE.md">Git2.41安装和配置</a></p></li></ul><h4 id="创建本地仓库">创建本地仓库</h4><ul><li>创建本地项目<br><img src="../static/annex/Pasted%20image%2020230627213318.png" alt=""></li><li>初始化本地仓库</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020230627213509.png" alt=""></p><ul><li>添加所需上传的文件</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git add .</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020230627213812.png" alt=""></p><ul><li>提交文件到仓库</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git commit -m <span class="string">&quot;首次提交&quot;</span></span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020230627213951.png" alt=""></p><h4 id="关联GitHub">关联GitHub</h4><ul><li>复制仓库地址，执行命令</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git remote add origin git@github.com:ashuai123/obsidian-theme.git</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020230627214400.png" alt=""></p><ul><li>上传代码</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git push -u origin master</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020230627214553.png" alt=""></p>]]></content>
+    
+    
+    <summary type="html">本地上传项目至GitHub</summary>
+    
+    
+    
+    <category term="git" scheme="https://joblxs.github.io/categories/git/"/>
+    
+    
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="git" scheme="https://joblxs.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>本地安装和配置git</title>
+    <link href="https://joblxs.github.io/19f14bf8.html"/>
+    <id>https://joblxs.github.io/19f14bf8.html</id>
+    <published>2024-04-16T13:54:43.000Z</published>
+    <updated>2024-04-16T13:57:58.928Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Git安装">Git安装</h2><h4 id="Git下载">Git下载</h4><ul><li>Git官网下载，下载地址<a href="https://git-scm.com/download/win">Git - Downloading Package (git-scm.com)</a></li></ul><h4 id="Git安装-2">Git安装</h4><ul><li>协议内容，直接next<br><img src="../static/annex/Pasted%20image%2020230626214912.png" alt=""></li><li>点击Browse选择存放的路径<br><img src="../static/annex/Pasted%20image%2020230626215121.png" alt=""></li><li>勾选相关哦配置<br><img src="../static/annex/Pasted%20image%2020230626215828.png" alt=""></li><li>直接next<br><img src="../static/annex/Pasted%20image%2020230626215931.png" alt=""></li><li>选择Git默认编辑器<br><img src="../static/annex/Pasted%20image%2020230626215952.png" alt=""></li><li>创建新项目时的分支名，默认master<br><img src="../static/annex/Pasted%20image%2020230626220001.png" alt=""></li><li>调整path环境变量<br><img src="../static/annex/Pasted%20image%2020230626220256.png" alt=""></li><li>选择ssh执行文件<br><img src="../static/annex/Pasted%20image%2020230626220334.png" alt=""></li><li>选择https后端传输<br><img src="Pasted%20image%2020230626220438.png" alt=""></li><li>配置行尾符号转换<br><img src="../static/annex/Pasted%20image%2020230626220508.png" alt=""></li><li>配置终端模拟器以与 Git Bash 一起使用<br><img src="../static/annex/Pasted%20image%2020230626220527.png" alt=""></li><li>选择默认git pull行为<br><img src="../static/annex/Pasted%20image%2020230626220624.png" alt=""></li><li>选择一个凭证帮助程序<br><img src="../static/annex/Pasted%20image%2020230626220705.png" alt=""></li><li>配置额外的选项<br><img src="../static/annex/Pasted%20image%2020230626220755.png" alt=""></li><li>配置实验性选项<br><img src="../static/annex/Pasted%20image%2020230626220829.png" alt=""></li><li>等待安装完成<br><img src="../static/annex/Pasted%20image%2020230626220854.png" alt=""></li></ul><h2 id="Git配置">Git配置</h2><h4 id="检查Git">检查Git</h4><ul><li>查看是否安装成功</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git --version</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020230626221245.png" alt=""></p><ul><li>查看Git是否添加到系统变量中</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">echo</span> <span class="variable">$PATH</span></span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020230626221458.png" alt=""></p><h4 id="配置Git">配置Git</h4><ul><li>配置用户名</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;username&quot;</span> //（<span class="string">&quot;username&quot;</span>是自己的账户名）</span><br></pre></td></tr></table></figure><ul><li>配置邮箱</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.email <span class="string">&quot;123@email.com&quot;</span> //(<span class="string">&quot;123@email.com&quot;</span>注册账号时用的邮箱)</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020230626222320.png" alt=""></p><ul><li>查看是否配置成功</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global --list</span><br></pre></td></tr></table></figure><h4 id="生成SSH">生成SSH</h4><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">SSH（Secure Shell）是一种加密的网络协议，用于在不安全的网络中安全地传输数据。它主要用于远程登录、远程执行命令、传输文件等操作，可以让用户通过不安全的网络连接到远程计算机，并在远程计算机上执行各种操作，而不必担心数据被窃取或篡改。</span><br><span class="line"></span><br><span class="line">SSH 协议使用了公钥加密算法和对称加密算法来实现数据的加密和身份验证。在使用 SSH 协议进行连接时，客户端和服务器之间会通过一系列的加密和验证过程，确认对方的身份，然后使用公钥加密算法和对称加密算法对传输的数据进行加密和解密。</span><br><span class="line"></span><br><span class="line">通过 SSH 协议连接到远程计算机后，用户可以执行各种命令，包括查看文件、编辑文件、编译程序、运行脚本等操作。此外，SSH 协议还可以用于传输文件，例如通过【1】 SCP（Secure Copy）或 【2】SFTP（Secure File Transfer Protocol）协议传输文件，这些协议都基于 SSH 协议，并使用相同的加密和身份验证机制，保证了传输的数据的安全性。</span><br></pre></td></tr></table></figure><ul><li>命令行输入</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa</span><br></pre></td></tr></table></figure><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="code">`ssh-keygen -t rsa`</span> 是一个用于在本地计算机上生成 SSH 密钥对的命令。该命令会生成一对密钥，包括一个私钥和一个公钥。私钥保存在本地计算机上，用于对 SSH 连接进行身份验证；公钥则可以复制到远程计算机上，用于对 SSH 连接进行加密。</span><br><span class="line"></span><br><span class="line"><span class="code">`-t`</span> 参数指定了要生成的密钥类型，这里使用的是 RSA 密钥。RSA 密钥是一种非对称加密算法，可用于加密和解密数据，也可用于身份验证。在生成 RSA 密钥对时，需要指定密钥长度，一般建议使用 2048 位或以上的密钥长度，以保证足够的安全性。</span><br><span class="line"></span><br><span class="line">生成 SSH 密钥对后，会提示您输入密钥保存路径、密钥文件名以及密钥口令等信息。您可以选择接受默认值，也可以自定义这些信息。最后，您可以将公钥复制到远程计算机上，以便在 SSH 连接时进行身份验证和加密。</span><br></pre></td></tr></table></figure><ul><li>生成的地址<br><img src="../static/annex/Pasted%20image%2020230626223154.png" alt=""><br><img src="../static/annex/Pasted%20image%2020230626223425.png" alt=""></li></ul><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">在使用 <span class="code">`ssh-keygen -t rsa`</span> 命令生成 SSH 密钥对时，默认情况下会生成 <span class="code">`id_rsa`</span> 和 <span class="code">`id_rsa.pub`</span> 两个文件。其中，<span class="code">`id_rsa`</span> 是私钥文件，而 <span class="code">`id_rsa.pub`</span> 则是公钥文件。</span><br><span class="line"></span><br><span class="line">在 SSH 连接过程中，私钥文件会保存在本地计算机上，用于进行身份验证，而公钥文件则需要复制到远程计算机上，用于进行加密。</span><br></pre></td></tr></table></figure><h4 id="添加到GitHub">添加到GitHub</h4><ul><li>将ssh文件夹中的公钥（id_rsa.pub）添加到GitHub管理平台中<br><img src="../static/annex/Pasted%20image%2020230626223709.png" alt=""></li><li>title随便起一个，打开id_rsa.pub文件，将内容复制带key<br><img src="../static/annex/Pasted%20image%2020230626224050.png" alt=""></li><li>查看是否配置成功</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> ~/.ssh</span><br><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020230626230801.png" alt=""></p>]]></content>
+    
+    
+    <summary type="html">本地安装git2.41以及基础配置</summary>
+    
+    
+    
+    <category term="git" scheme="https://joblxs.github.io/categories/git/"/>
+    
+    
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="git" scheme="https://joblxs.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1panel运行nodeJs项目</title>
+    <link href="https://joblxs.github.io/95d4894e.html"/>
+    <id>https://joblxs.github.io/95d4894e.html</id>
+    <published>2024-04-16T13:42:37.000Z</published>
+    <updated>2024-04-16T13:56:10.619Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="拉取项目">拉取项目</h2><p>如果是私有仓库，需要在GitHub上生成访问令牌<br>登录GitHub，点击头像-&gt;settings-&gt;developer settings<br><img src="../static/annex/Pasted%20image%2020240414172026.png" alt=""><br>生成令牌，拉取项目<br><img src="../static/annex/Pasted%20image%2020240414172726.png" alt=""></p><h2 id="打开1panel">打开1panel</h2><p>创建node.js运行环境<br><img src="../static/annex/Pasted%20image%2020240414185728.png" alt=""><br>填写参数<br><img src="../static/annex/Pasted%20image%2020240414191729.png" alt=""></p><p>阿里云放行端口<br><img src="../static/annex/Pasted%20image%2020240414192036.png" alt=""></p><p>搭建完成<br><img src="../static/annex/Pasted%20image%2020240414192119.png" alt=""></p>]]></content>
+    
+    
+    <summary type="html">使用1panel运行nodeJs项目</summary>
+    
+    
+    
+    <category term="服务器" scheme="https://joblxs.github.io/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="1panel" scheme="https://joblxs.github.io/tags/1panel/"/>
+    
+    <category term="搭建" scheme="https://joblxs.github.io/tags/%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>云服务器安装git并搭建网站</title>
+    <link href="https://joblxs.github.io/b38d2f8d.html"/>
+    <id>https://joblxs.github.io/b38d2f8d.html</id>
+    <published>2024-04-16T13:36:36.000Z</published>
+    <updated>2024-04-16T13:56:35.320Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="安装">安装</h2><p>执行命令安装git</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">yum install git</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020240414140334.png" alt=""><br>输入命令查看是否安装成功</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git version</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020240414140431.png" alt=""></p><h2 id="初始化git">初始化git</h2><ul><li>配置用户名</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;username&quot;</span> //（<span class="string">&quot;username&quot;</span>是自己的账户名）</span><br></pre></td></tr></table></figure><ul><li>配置邮箱</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.email <span class="string">&quot;123@email.com&quot;</span> //(<span class="string">&quot;123@email.com&quot;</span>注册账号时用的邮箱)</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020240414140804.png" alt=""></p><h2 id="生成证书">生成证书</h2><p>输入命令，然后输入三次空格</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C “git用户邮箱”</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020240414141206.png" alt=""><br>切换到ssh目录下查看证书是否生成</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> ~/.ssh</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020240414141338.png" alt=""></p><h2 id="添加至GitHub">添加至GitHub</h2><p>将ssh文件夹中的公钥（id_rsa.pub）添加到GitHub管理平台中<br><img src="../static/annex/Pasted%20image%2020230626223709.png" alt=""><br>终端输入命令查看id_rsa.pub，将公匙里的内容复制到GitHub里的密匙里</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cat</span> id_rsa.pub</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020240414141903.png" alt=""><br>验证是否成功</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure><p><img src="../static/annex/Pasted%20image%2020240414142354.png" alt=""></p><h2 id="搭建网站">搭建网站</h2><p>打开1panel，选择创建网站<br><img src="../static/annex/Pasted%20image%2020240414143247.png" alt=""><br>填写主域名和代号，由于域名还在备案，先使用IP，IP在阿里云控制台查看-注意添加端口号:80<br><img src="../static/annex/Pasted%20image%2020240414143739.png" alt=""><br>创建完成，点击配置<br><img src="../static/annex/Pasted%20image%2020240414143924.png" alt=""><br>点击图标<br><img src="../static/annex/Pasted%20image%2020240414162325.png" alt=""><br>创建完成<br><img src="../static/annex/Pasted%20image%2020240414162330.png" alt=""></p><h2 id="拉取项目">拉取项目</h2><p>点击网站目录，复制路径，然后拉取项目<br><img src="../static/annex/Pasted%20image%2020240414162553.png" alt=""></p><p><img src="../static/annex/Pasted%20image%2020240414163006.png" alt=""><br>回到网站配置，选择运行目录<br><img src="../static/annex/Pasted%20image%2020240414163132.png" alt=""><br>重新访问设置的IP<br><img src="../static/annex/Pasted%20image%2020240414163239.png" alt=""></p>]]></content>
+    
+    
+    <summary type="html">使用1panel给云服务器安装git并搭建静态网站</summary>
+    
+    
+    
+    <category term="服务器" scheme="https://joblxs.github.io/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="1panel" scheme="https://joblxs.github.io/tags/1panel/"/>
+    
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="git" scheme="https://joblxs.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云安装1panel</title>
+    <link href="https://joblxs.github.io/885af161.html"/>
+    <id>https://joblxs.github.io/885af161.html</id>
+    <published>2024-04-16T13:31:30.000Z</published>
+    <updated>2024-04-16T14:04:09.747Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1panel">1panel</h2><h3 id="介绍">介绍</h3><p>1Panel 是一个现代化、开源的 Linux 服务器运维管理面板。</p><h3 id="优势">优势</h3><ul><li><strong>高效管理</strong>：用户可以通过 Web 图形界面轻松管理 Linux 服务器，实现主机监控、文件管理、数据库管理、容器管理等功能；</li><li><strong>快速建站</strong>：深度集成开源建站软件 WordPress 和 Halo，域名绑定、SSL 证书配置等操作一键搞定；</li><li><strong>应用商店</strong>：精选上架各类高质量的开源工具和应用软件，协助用户轻松安装并升级；</li><li><strong>安全可靠</strong>：基于容器管理并部署应用，实现最小的漏洞暴露面，同时提供防火墙和日志审计等功能；</li><li><strong>一键备份</strong>：支持一键备份和恢复，用户可以将数据备份到各类云端存储介质，永不丢失。</li></ul><h2 id="在线安装">在线安装</h2><ul><li>打开阿里云：<a href="https://www.aliyun.com/">阿里云-计算，为了无法计算的价值 (aliyun.com)</a></li></ul><h3 id="选择ECS实例">选择ECS实例</h3><ul><li>在阿里云管理控制台中，点击左侧菜单栏的 <strong>云服务器 ECS</strong> 选项。<br><img src="../static/annex/Pasted%20image%2020240412214240.png" alt=""></li></ul><h3 id="点击远程连接">点击远程连接</h3><ul><li>登录<br><img src="../static/annex/Pasted%20image%2020240412214708.png" alt=""></li><li>执行命令</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">curl -sSL https://resource.fit2cloud.com/1panel/package/quick_start.sh -o quick_start.sh &amp;&amp; sudo bash quick_start.sh</span><br></pre></td></tr></table></figure><ul><li>安装成功后，控制台会打印面板访问信息，可通过浏览器访问 1Panel<br><img src="../static/annex/Pasted%20image%2020240412215120.png" alt=""></li></ul><h2 id="放行端口">放行端口</h2><p>访问出错，需要放行所需端口<br><img src="../static/annex/Pasted%20image%2020240412215358.png" alt=""></p><ul><li>在左侧导航栏，选择<strong>网络与安全</strong> &gt; <strong>安全组</strong>，单击<strong>管理规则</strong><br><img src="../static/annex/Pasted%20image%2020240412215650.png" alt=""></li><li>选择手动添加，填写完毕点击保存<br><img src="../static/annex/Pasted%20image%2020240412220245.png" alt=""><br>成功打开页面<br><img src="../static/annex/Pasted%20image%2020240412220318.png" alt=""><br>成功登录<br><img src="../static/annex/Pasted%20image%2020240412220433.png" alt=""></li></ul>]]></content>
+    
+    
+    <summary type="html">阿里云服务器安装1panel</summary>
+    
+    
+    
+    <category term="服务器" scheme="https://joblxs.github.io/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="1panel" scheme="https://joblxs.github.io/tags/1panel/"/>
+    
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
     <title>基础语法和外挂标签（五）</title>
-    <link href="https://lxshuai.top/36d0f558.html"/>
-    <id>https://lxshuai.top/36d0f558.html</id>
+    <link href="https://joblxs.github.io/36d0f558.html"/>
+    <id>https://joblxs.github.io/36d0f558.html</id>
     <published>2024-04-15T13:54:50.000Z</published>
     <updated>2024-04-16T12:43:53.197Z</updated>
     
@@ -30,21 +306,21 @@
     
     
     
-    <category term="博客系统" scheme="https://lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <category term="博客系统" scheme="https://joblxs.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="hexo" scheme="https://lxshuai.top/tags/hexo/"/>
+    <category term="hexo" scheme="https://joblxs.github.io/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://lxshuai.top/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://joblxs.github.io/tags/butterfly/"/>
     
-    <category term="markdown" scheme="https://lxshuai.top/tags/markdown/"/>
+    <category term="markdown" scheme="https://joblxs.github.io/tags/markdown/"/>
     
   </entry>
   
   <entry>
     <title>主题魔改（四）</title>
-    <link href="https://lxshuai.top/f3c2f2fb.html"/>
-    <id>https://lxshuai.top/f3c2f2fb.html</id>
+    <link href="https://joblxs.github.io/f3c2f2fb.html"/>
+    <id>https://joblxs.github.io/f3c2f2fb.html</id>
     <published>2024-04-15T13:12:10.000Z</published>
     <updated>2024-04-16T12:43:34.003Z</updated>
     
@@ -55,19 +331,19 @@
     
     
     
-    <category term="博客系统" scheme="https://lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <category term="博客系统" scheme="https://joblxs.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="hexo" scheme="https://lxshuai.top/tags/hexo/"/>
+    <category term="hexo" scheme="https://joblxs.github.io/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://lxshuai.top/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://joblxs.github.io/tags/butterfly/"/>
     
   </entry>
   
   <entry>
     <title>博客主题（三）</title>
-    <link href="https://lxshuai.top/ef6c93e4.html"/>
-    <id>https://lxshuai.top/ef6c93e4.html</id>
+    <link href="https://joblxs.github.io/ef6c93e4.html"/>
+    <id>https://joblxs.github.io/ef6c93e4.html</id>
     <published>2024-04-14T03:01:48.000Z</published>
     <updated>2024-04-16T12:43:31.089Z</updated>
     
@@ -78,19 +354,19 @@
     
     
     
-    <category term="博客系统" scheme="https://lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <category term="博客系统" scheme="https://joblxs.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="hexo" scheme="https://lxshuai.top/tags/hexo/"/>
+    <category term="hexo" scheme="https://joblxs.github.io/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://lxshuai.top/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://joblxs.github.io/tags/butterfly/"/>
     
   </entry>
   
   <entry>
     <title>博客配置（二）</title>
-    <link href="https://lxshuai.top/541e55cb.html"/>
-    <id>https://lxshuai.top/541e55cb.html</id>
+    <link href="https://joblxs.github.io/541e55cb.html"/>
+    <id>https://joblxs.github.io/541e55cb.html</id>
     <published>2024-04-14T02:41:17.000Z</published>
     <updated>2024-04-16T12:43:25.624Z</updated>
     
@@ -101,19 +377,19 @@
     
     
     
-    <category term="博客系统" scheme="https://lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <category term="博客系统" scheme="https://joblxs.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="hexo" scheme="https://lxshuai.top/tags/hexo/"/>
+    <category term="hexo" scheme="https://joblxs.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>博客搭建（一）</title>
-    <link href="https://lxshuai.top/4b241634.html"/>
-    <id>https://lxshuai.top/4b241634.html</id>
+    <link href="https://joblxs.github.io/4b241634.html"/>
+    <id>https://joblxs.github.io/4b241634.html</id>
     <published>2024-04-14T02:30:26.000Z</published>
-    <updated>2024-04-16T12:43:15.441Z</updated>
+    <updated>2024-04-16T13:32:46.319Z</updated>
     
     <content type="html"><![CDATA[<blockquote><h2 id="前言">前言</h2><p>本博客搭建参考于大佬<a href="https://github.com/fomalhaut1998/hexo-theme-Fomalhaut">hexo-theme-Fomalhaut:</a>的开源项目，此文档主要用来自己熟悉hexo搭建和一些基本用法。</p><h2 id="目录">目录</h2><ol><li><a href="4b241634.html">博客搭建（一）</a>  ⇦您当前在此位置🪂</li><li><a href="541e55cb.html">博客配置（二）</a></li><li><a href="ef6c93e4.html">博客主题（三）</a></li><li><a href="f3c2f2fb.html">主题魔改（四）</a></li><li><a href="36d0f558.html">基础语法和外挂标签（五）</a></li></ol></blockquote><h2 id="环境与工具">环境与工具</h2><ul><li>node <a href="../NodeJs/nvm%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E5%8F%8Anode%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86.md">nvm下载安装及node版本管理</a></li><li>git <a href="../Git/Git2.41%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE.md">Git2.41安装和配置</a></li><li>hexo <a href="../hexo/%E5%AE%89%E8%A3%85hexo.md">安装hexo</a></li><li>文本编辑器，如vscode <a href="../VS%20Code/vsCode%E5%AE%89%E8%A3%85%E5%92%8C%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE.md">vsCode安装和基本配置</a></li><li>gitHub <a href="../Git/%E4%B8%8A%E4%BC%A0%E9%A1%B9%E7%9B%AE%E5%88%B0GitHub.md">上传项目到GitHub</a></li></ul><h2 id="安装hexo">安装hexo</h2><ul><li>在任意目录执行(node版本为14.20.0)</li></ul><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-<span class="keyword">cli</span></span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413004902.png" alt=""></p><ul><li>添加环境变量<br><img src="static/annex/Pasted%20image%2020240413005320.png" alt=""><br><img src="static/annex/Pasted%20image%2020240413005346.png" alt=""><br>执行命令</li></ul><figure class="highlight ebnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">hexo -v</span></span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413005412.png" alt=""></p><h2 id="初始化博客项目">初始化博客项目</h2><ul><li>在目标路径（我这里选的路径为【P:\NodeJs\WWW\blog】）执行命令</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init blog-x(项目名)</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413164736.png" alt=""></p><ul><li>进入blog-x，输入命令安装依赖</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> blog-x</span><br><span class="line">npm i</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413165015.png" alt=""></p><ul><li>目录如下<br><img src="static/annex/Pasted%20image%2020240413165425.png" alt=""></li><li>输入命令，启动项目（或<code>hexo server</code>）</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413165505.png" alt=""><br>浏览器打开<code>http://localhost:4000</code>，出现如下页面，初始化成功<br><img src="static/annex/Pasted%20image%2020240413165656.png" alt=""></p><h2 id="将静态博客挂载到-GitHub-Pages">将静态博客挂载到 GitHub Pages</h2><h3 id="GitHub创建项目">GitHub创建项目</h3><ul><li>打开GitHub，点击右上角的<code>+</code>按钮，选择<code>New repository</code>，创建一个<code>&lt;用户名&gt;.github.io</code>的仓库</li><li>仓库的格式必须为：<code>&lt;用户名&gt;.github.io</code> (注意：前缀必须为用户名，不要等后面404了再来为什么！！！)</li><li>Description：为描述仓库（选填）</li><li>勾选 Initialize this repository with a README 初始化一个 <a href="http://readme.md/">README.md</a> 文件</li><li>点击 Creat repository 进行创建<br><img src="static/annex/Pasted%20image%2020240413172836.png" alt=""></li></ul><h3 id="安装-hexo-deployer-git">安装 hexo-deployer-git</h3><ul><li>输入命令</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413165858.png" alt=""></p><ul><li>修改 config.yml 文件</li><li>在blog-demo目录下的config.yml，就是整个Hexo框架的配置文件了。可以在里面修改大部分的配置。详细可参考官方的配置描述。</li><li>修改最后一行的配置，将repository修改为你自己的github项目地址即可，还有分支要改为main代表主分支（注意缩进）。</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  <span class="built_in">type</span>: git</span><br><span class="line">  repository: git@github.com:joblxs/joblxs.github.io.git</span><br><span class="line">  branch: main</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413172949.png" alt=""></p><ul><li>修改好配置后，运行如下命令，将代码部署到 GitHub</li><li>hexo clean：删除之前生成的文件，若未生成过静态文件，可忽略此命令。</li><li>hexo generate：生成静态文章，可以用<code>hexo g</code>缩写</li><li>hexo deploy：部署文章，可以用<code>hexo d</code>缩写</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy  // Git BASH终端  </span><br><span class="line">hexo clean; hexo generate; hexo deploy  // VSCODE终端</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413173103.png" alt=""></p><ul><li>出现<code>Deploy done</code>，部署成功<br><img src="static/annex/Pasted%20image%2020240413173113.png" alt=""></li><li>GitHub更新成功<br><img src="static/annex/Pasted%20image%2020240413173150.png" alt=""></li><li>稍等两分钟，打开浏览器访问：<a href="https://joblxs.github.io/">Hexo (joblxs.github.io)</a> ，这时候我们就可以看到博客内容了。<br><img src="static/annex/Pasted%20image%2020240413173313.png" alt=""></li></ul>]]></content>
     
@@ -122,10 +398,10 @@
     
     
     
-    <category term="博客系统" scheme="https://lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <category term="博客系统" scheme="https://joblxs.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="hexo" scheme="https://lxshuai.top/tags/hexo/"/>
+    <category term="hexo" scheme="https://joblxs.github.io/tags/hexo/"/>
     
   </entry>
   
