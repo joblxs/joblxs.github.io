@@ -151,9 +151,9 @@
       
         <tags>
             
-            <tag> 安装/基础 </tag>
-            
             <tag> php </tag>
+            
+            <tag> 安装/基础 </tag>
             
         </tags>
       
@@ -178,11 +178,11 @@
       
         <tags>
             
+            <tag> 安装/基础 </tag>
+            
             <tag> nvm </tag>
             
             <tag> nodeJs </tag>
-            
-            <tag> 安装/基础 </tag>
             
         </tags>
       

@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://joblxs.github.io/categories/index.html</loc>
+    <loc>https://joblxs.github.io/box/gallery/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://joblxs.github.io/box/gallery/index.html</loc>
+    <loc>https://joblxs.github.io/categories/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://joblxs.github.io/life/movies/index.html</loc>
+    <loc>https://joblxs.github.io/personal/bb/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://joblxs.github.io/personal/bb/index.html</loc>
+    <loc>https://joblxs.github.io/life/movies/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -264,15 +264,6 @@
   
   <url>
     <loc>https://joblxs.github.io/personal/love/index.html</loc>
-    
-    <lastmod>2024-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://joblxs.github.io/social/link/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -291,6 +282,15 @@
   
   <url>
     <loc>https://joblxs.github.io/social/fcircle/index.html</loc>
+    
+    <lastmod>2024-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://joblxs.github.io/social/link/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -331,13 +331,6 @@
   </url>
   
   <url>
-    <loc>https://joblxs.github.io/tags/markdown/</loc>
-    <lastmod>2024-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://joblxs.github.io/tags/1panel/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -346,6 +339,20 @@
   
   <url>
     <loc>https://joblxs.github.io/tags/%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2024-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://joblxs.github.io/tags/php/</loc>
+    <lastmod>2024-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -366,21 +373,7 @@
   </url>
   
   <url>
-    <loc>https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2024-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://joblxs.github.io/tags/php/</loc>
-    <lastmod>2024-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://joblxs.github.io/tags/share/</loc>
+    <loc>https://joblxs.github.io/tags/markdown/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -388,6 +381,13 @@
   
   <url>
     <loc>https://joblxs.github.io/tags/git/</loc>
+    <lastmod>2024-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://joblxs.github.io/tags/share/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -417,14 +417,14 @@
   </url>
   
   <url>
-    <loc>https://joblxs.github.io/categories/nodeJs/</loc>
+    <loc>https://joblxs.github.io/categories/PHP/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://joblxs.github.io/categories/PHP/</loc>
+    <loc>https://joblxs.github.io/categories/nodeJs/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -144,9 +144,9 @@
     <category term="PHP" scheme="https://joblxs.github.io/categories/PHP/"/>
     
     
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
-    
     <category term="php" scheme="https://joblxs.github.io/tags/php/"/>
+    
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
@@ -167,11 +167,11 @@
     <category term="nodeJs" scheme="https://joblxs.github.io/categories/nodeJs/"/>
     
     
+    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
     <category term="nvm" scheme="https://joblxs.github.io/tags/nvm/"/>
     
     <category term="nodeJs" scheme="https://joblxs.github.io/tags/nodeJs/"/>
-    
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
