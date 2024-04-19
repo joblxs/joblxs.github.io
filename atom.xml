@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>lxshuai</title>
+  <title>拾贝</title>
   
   
   <link href="https://joblxs.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://joblxs.github.io/</id>
   
   <author>
-    <name>shuai</name>
+    <name>拾贝</name>
     
   </author>
   
@@ -134,9 +134,9 @@
     <link href="https://joblxs.github.io/298f1f26.html"/>
     <id>https://joblxs.github.io/298f1f26.html</id>
     <published>2024-04-16T14:07:14.000Z</published>
-    <updated>2024-04-16T16:02:03.441Z</updated>
+    <updated>2024-04-18T15:11:43.354Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="vsCode安装">vsCode安装</h2><p>Visual Studio Code 是一个轻量级功能强大的源代码编辑器，支持语法高亮、代码自动补全（又称 IntelliSense）、代码重构、查看定义功能，并且内置了命令行工具和 Git 版本控制系统。适用于 Windows、macOS 和 Linux。它内置了对 JavaScript、TypeScript 和 Node.js 的支持，并为其他语言和运行时（如 C++、C#、Java、Python、PHP、Go、.NET）提供了丰富的扩展生态系统。</p><h4 id="vsCode下载">vsCode下载</h4><ol><li>下载地址： <a href="https://code.visualstudio.com/Download">Download Visual Studio Code - Mac, Linux, Windows</a></li></ol><h4 id="vsCode安装-2">vsCode安装</h4><ol start="2"><li>同意协议<br><img src="static/annex/Pasted%20image%2020230628201717.png" alt=""></li><li>浏览，选择安装的位置<br><img src="static/annex/Pasted%20image%2020230628201849.png" alt=""></li><li>选择开始菜单文件夹<br><img src="static/annex/Pasted%20image%2020230628201908.png" alt=""></li><li>选择附加任务<br><img src="static/annex/Pasted%20image%2020230628202214.png" alt=""></li><li>准备安装<br><img src="static/annex/Pasted%20image%2020230628202259.png" alt=""></li><li>安装完成<br><img src="static/annex/Pasted%20image%2020230628202358.png" alt=""></li></ol><h2 id="基本配置">基本配置</h2><h4 id="插件篇">插件篇</h4><ul><li>Chinese-设置为中文</li><li>vscode-icons-改变编辑器里面的文件图标</li><li>Markdown Preview Github Styling-实时预览 markdown</li><li>GitLens-码农必备，操作git</li><li>Git History-查询所有 Git 记录的需求</li><li>Eva Theme - vsCode主题</li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="vsCode安装">vsCode安装</h2><p>Visual Studio Code 是一个轻量级功能强大的源代码编辑器，支持语法高亮、代码自动补全（又称 IntelliSense）、代码重构、查看定义功能，并且内置了命令行工具和 Git 版本控制系统。适用于 Windows、macOS 和 Linux。它内置了对 JavaScript、TypeScript 和 Node.js 的支持，并为其他语言和运行时（如 C++、C#、Java、Python、PHP、Go、.NET）提供了丰富的扩展生态系统。</p><h4 id="vsCode下载">vsCode下载</h4><ol><li>下载地址： <a href="https://code.visualstudio.com/Download">Download Visual Studio Code - Mac, Linux, Windows</a></li></ol><h4 id="vsCode安装-2">vsCode安装</h4><ol start="2"><li>同意协议<br><img src="static/annex/Pasted%20image%2020230628201717.png" alt=""></li><li>浏览，选择安装的位置<br><img src="static/annex/Pasted%20image%2020230628201849.png" alt=""></li><li>选择开始菜单文件夹<br><img src="static/annex/Pasted%20image%2020230628201908.png" alt=""></li><li>选择附加任务<br><img src="static/annex/Pasted%20image%2020230628202214.png" alt=""></li><li>准备安装<br><img src="static/annex/Pasted%20image%2020230628202259.png" alt=""></li><li>安装完成<br><img src="static/annex/Pasted%20image%2020230628202358.png" alt=""></li></ol><h2 id="基本配置">基本配置</h2><h4 id="插件篇">插件篇</h4><ul><li>Chinese-设置为中文</li><li>vscode-icons-改变编辑器里面的文件图标</li><li>Markdown Preview Github Styling-实时预览 markdown</li><li>GitLens-码农必备，操作git</li><li>Git History-查询所有 Git 记录的需求</li><li>Eva Theme - vsCode主题</li></ul><h4 id="自动保存">自动保存</h4><p><code>ctrl+,</code>打开设置，搜索Auto save</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Auto save</span><br></pre></td></tr></table></figure><ul><li>off <code>关闭自动保存</code>。</li><li>afterDelay 在<code>&#123;&#123;num&#125;&#125;毫秒</code>后自动保存。</li><li>onFocusChange <code>编辑器失去焦点的时候</code>，触发保存。也就是鼠标在编辑器之外的区域按下左键才会保存。</li><li>onWindowChange <code>窗口失去焦点的时候</code>，触发保存。也就是鼠标在整个VScode软件之外的地方点下左键才会保存。</li></ul>]]></content>
     
     
     <summary type="html">vsCode安装和基本配置、常用插件</summary>
