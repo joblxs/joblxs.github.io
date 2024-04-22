@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>拾贝</title>
+  <title>拾贝博客</title>
   
   
-  <link href="https://joblxs.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.lxshuai.top/atom.xml" rel="self"/>
   
-  <link href="https://joblxs.github.io/"/>
+  <link href="https://blog.lxshuai.top/"/>
   <updated>2024-04-18T13:49:35.003Z</updated>
-  <id>https://joblxs.github.io/</id>
+  <id>https://blog.lxshuai.top/</id>
   
   <author>
     <name>拾贝</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>个人网址导航搭建</title>
-    <link href="https://joblxs.github.io/b1605627.html"/>
-    <id>https://joblxs.github.io/b1605627.html</id>
+    <link href="https://blog.lxshuai.top/b1605627.html"/>
+    <id>https://blog.lxshuai.top/b1605627.html</id>
     <published>2024-04-18T13:09:58.000Z</published>
     <updated>2024-04-18T13:49:35.003Z</updated>
     
@@ -30,19 +30,19 @@
     
     
     
-    <category term="博客系统" scheme="https://joblxs.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <category term="博客系统" scheme="https://blog.lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="hexo" scheme="https://joblxs.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.lxshuai.top/tags/hexo/"/>
     
-    <category term="Webstack" scheme="https://joblxs.github.io/tags/Webstack/"/>
+    <category term="Webstack" scheme="https://blog.lxshuai.top/tags/Webstack/"/>
     
   </entry>
   
   <entry>
     <title>免费知乎盐选分享</title>
-    <link href="https://joblxs.github.io/a0bffb7f.html"/>
-    <id>https://joblxs.github.io/a0bffb7f.html</id>
+    <link href="https://blog.lxshuai.top/a0bffb7f.html"/>
+    <id>https://blog.lxshuai.top/a0bffb7f.html</id>
     <published>2024-04-16T14:14:37.000Z</published>
     <updated>2024-04-16T14:15:56.921Z</updated>
     
@@ -53,17 +53,17 @@
     
     
     
-    <category term="其它" scheme="https://joblxs.github.io/categories/%E5%85%B6%E5%AE%83/"/>
+    <category term="其它" scheme="https://blog.lxshuai.top/categories/%E5%85%B6%E5%AE%83/"/>
     
     
-    <category term="share" scheme="https://joblxs.github.io/tags/share/"/>
+    <category term="share" scheme="https://blog.lxshuai.top/tags/share/"/>
     
   </entry>
   
   <entry>
     <title>虚拟机安装Windows7</title>
-    <link href="https://joblxs.github.io/63a02cb8.html"/>
-    <id>https://joblxs.github.io/63a02cb8.html</id>
+    <link href="https://blog.lxshuai.top/63a02cb8.html"/>
+    <id>https://blog.lxshuai.top/63a02cb8.html</id>
     <published>2024-04-16T14:12:52.000Z</published>
     <updated>2024-04-16T14:39:06.774Z</updated>
     
@@ -74,19 +74,19 @@
     
     
     
-    <category term="VMware" scheme="https://joblxs.github.io/categories/VMware/"/>
+    <category term="VMware" scheme="https://blog.lxshuai.top/categories/VMware/"/>
     
     
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="虚拟机" scheme="https://joblxs.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    <category term="虚拟机" scheme="https://blog.lxshuai.top/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>虚拟机安装ubuntu20.04</title>
-    <link href="https://joblxs.github.io/VMware.html"/>
-    <id>https://joblxs.github.io/VMware.html</id>
+    <link href="https://blog.lxshuai.top/VMware.html"/>
+    <id>https://blog.lxshuai.top/VMware.html</id>
     <published>2024-04-16T14:11:35.000Z</published>
     <updated>2024-04-16T14:39:06.775Z</updated>
     
@@ -97,19 +97,19 @@
     
     
     
-    <category term="VMware" scheme="https://joblxs.github.io/categories/VMware/"/>
+    <category term="VMware" scheme="https://blog.lxshuai.top/categories/VMware/"/>
     
     
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="虚拟机" scheme="https://joblxs.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    <category term="虚拟机" scheme="https://blog.lxshuai.top/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>虚拟机安装macOS13.20</title>
-    <link href="https://joblxs.github.io/2aea3f72.html"/>
-    <id>https://joblxs.github.io/2aea3f72.html</id>
+    <link href="https://blog.lxshuai.top/2aea3f72.html"/>
+    <id>https://blog.lxshuai.top/2aea3f72.html</id>
     <published>2024-04-16T14:09:40.000Z</published>
     <updated>2024-04-16T14:39:06.797Z</updated>
     
@@ -120,19 +120,19 @@
     
     
     
-    <category term="VMware" scheme="https://joblxs.github.io/categories/VMware/"/>
+    <category term="VMware" scheme="https://blog.lxshuai.top/categories/VMware/"/>
     
     
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="虚拟机" scheme="https://joblxs.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    <category term="虚拟机" scheme="https://blog.lxshuai.top/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>vsCode安装和基本配置</title>
-    <link href="https://joblxs.github.io/298f1f26.html"/>
-    <id>https://joblxs.github.io/298f1f26.html</id>
+    <link href="https://blog.lxshuai.top/298f1f26.html"/>
+    <id>https://blog.lxshuai.top/298f1f26.html</id>
     <published>2024-04-16T14:07:14.000Z</published>
     <updated>2024-04-18T15:11:43.354Z</updated>
     
@@ -143,17 +143,17 @@
     
     
     
-    <category term="editor" scheme="https://joblxs.github.io/categories/editor/"/>
+    <category term="editor" scheme="https://blog.lxshuai.top/categories/editor/"/>
     
     
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>phpstudy安装</title>
-    <link href="https://joblxs.github.io/e2afa59c.html"/>
-    <id>https://joblxs.github.io/e2afa59c.html</id>
+    <link href="https://blog.lxshuai.top/e2afa59c.html"/>
+    <id>https://blog.lxshuai.top/e2afa59c.html</id>
     <published>2024-04-16T14:06:07.000Z</published>
     <updated>2024-04-16T16:00:16.761Z</updated>
     
@@ -164,19 +164,19 @@
     
     
     
-    <category term="PHP" scheme="https://joblxs.github.io/categories/PHP/"/>
+    <category term="PHP" scheme="https://blog.lxshuai.top/categories/PHP/"/>
     
     
-    <category term="php" scheme="https://joblxs.github.io/tags/php/"/>
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    <category term="php" scheme="https://blog.lxshuai.top/tags/php/"/>
     
   </entry>
   
   <entry>
     <title>nvm下载安装及node版本管理</title>
-    <link href="https://joblxs.github.io/5ae7bcc9.html"/>
-    <id>https://joblxs.github.io/5ae7bcc9.html</id>
+    <link href="https://blog.lxshuai.top/5ae7bcc9.html"/>
+    <id>https://blog.lxshuai.top/5ae7bcc9.html</id>
     <published>2024-04-16T14:03:36.000Z</published>
     <updated>2024-04-16T15:58:21.324Z</updated>
     
@@ -187,21 +187,21 @@
     
     
     
-    <category term="nodeJs" scheme="https://joblxs.github.io/categories/nodeJs/"/>
+    <category term="nodeJs" scheme="https://blog.lxshuai.top/categories/nodeJs/"/>
     
     
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    <category term="nvm" scheme="https://blog.lxshuai.top/tags/nvm/"/>
     
-    <category term="nvm" scheme="https://joblxs.github.io/tags/nvm/"/>
+    <category term="nodeJs" scheme="https://blog.lxshuai.top/tags/nodeJs/"/>
     
-    <category term="nodeJs" scheme="https://joblxs.github.io/tags/nodeJs/"/>
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>本地上传项目至GitHub</title>
-    <link href="https://joblxs.github.io/1927d27d.html"/>
-    <id>https://joblxs.github.io/1927d27d.html</id>
+    <link href="https://blog.lxshuai.top/1927d27d.html"/>
+    <id>https://blog.lxshuai.top/1927d27d.html</id>
     <published>2024-04-16T13:59:08.000Z</published>
     <updated>2024-04-16T15:52:58.760Z</updated>
     
@@ -212,19 +212,19 @@
     
     
     
-    <category term="git" scheme="https://joblxs.github.io/categories/git/"/>
+    <category term="git" scheme="https://blog.lxshuai.top/categories/git/"/>
     
     
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="git" scheme="https://joblxs.github.io/tags/git/"/>
+    <category term="git" scheme="https://blog.lxshuai.top/tags/git/"/>
     
   </entry>
   
   <entry>
     <title>本地安装和配置git</title>
-    <link href="https://joblxs.github.io/19f14bf8.html"/>
-    <id>https://joblxs.github.io/19f14bf8.html</id>
+    <link href="https://blog.lxshuai.top/19f14bf8.html"/>
+    <id>https://blog.lxshuai.top/19f14bf8.html</id>
     <published>2024-04-16T13:54:43.000Z</published>
     <updated>2024-04-16T15:49:03.211Z</updated>
     
@@ -235,19 +235,19 @@
     
     
     
-    <category term="git" scheme="https://joblxs.github.io/categories/git/"/>
+    <category term="git" scheme="https://blog.lxshuai.top/categories/git/"/>
     
     
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="git" scheme="https://joblxs.github.io/tags/git/"/>
+    <category term="git" scheme="https://blog.lxshuai.top/tags/git/"/>
     
   </entry>
   
   <entry>
     <title>1panel运行nodeJs项目</title>
-    <link href="https://joblxs.github.io/95d4894e.html"/>
-    <id>https://joblxs.github.io/95d4894e.html</id>
+    <link href="https://blog.lxshuai.top/95d4894e.html"/>
+    <id>https://blog.lxshuai.top/95d4894e.html</id>
     <published>2024-04-16T13:42:37.000Z</published>
     <updated>2024-04-16T15:43:05.020Z</updated>
     
@@ -258,19 +258,19 @@
     
     
     
-    <category term="服务器" scheme="https://joblxs.github.io/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="服务器" scheme="https://blog.lxshuai.top/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
-    <category term="1panel" scheme="https://joblxs.github.io/tags/1panel/"/>
+    <category term="1panel" scheme="https://blog.lxshuai.top/tags/1panel/"/>
     
-    <category term="搭建" scheme="https://joblxs.github.io/tags/%E6%90%AD%E5%BB%BA/"/>
+    <category term="搭建" scheme="https://blog.lxshuai.top/tags/%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>云服务器安装git并搭建网站</title>
-    <link href="https://joblxs.github.io/b38d2f8d.html"/>
-    <id>https://joblxs.github.io/b38d2f8d.html</id>
+    <link href="https://blog.lxshuai.top/b38d2f8d.html"/>
+    <id>https://blog.lxshuai.top/b38d2f8d.html</id>
     <published>2024-04-16T13:36:36.000Z</published>
     <updated>2024-04-16T15:41:39.809Z</updated>
     
@@ -281,21 +281,21 @@
     
     
     
-    <category term="服务器" scheme="https://joblxs.github.io/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="服务器" scheme="https://blog.lxshuai.top/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
-    <category term="1panel" scheme="https://joblxs.github.io/tags/1panel/"/>
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    <category term="1panel" scheme="https://blog.lxshuai.top/tags/1panel/"/>
     
-    <category term="git" scheme="https://joblxs.github.io/tags/git/"/>
+    <category term="git" scheme="https://blog.lxshuai.top/tags/git/"/>
     
   </entry>
   
   <entry>
     <title>阿里云安装1panel</title>
-    <link href="https://joblxs.github.io/885af161.html"/>
-    <id>https://joblxs.github.io/885af161.html</id>
+    <link href="https://blog.lxshuai.top/885af161.html"/>
+    <id>https://blog.lxshuai.top/885af161.html</id>
     <published>2024-04-16T13:31:30.000Z</published>
     <updated>2024-04-16T15:38:25.169Z</updated>
     
@@ -306,19 +306,19 @@
     
     
     
-    <category term="服务器" scheme="https://joblxs.github.io/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="服务器" scheme="https://blog.lxshuai.top/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
-    <category term="1panel" scheme="https://joblxs.github.io/tags/1panel/"/>
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
-    <category term="安装/基础" scheme="https://joblxs.github.io/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    <category term="1panel" scheme="https://blog.lxshuai.top/tags/1panel/"/>
     
   </entry>
   
   <entry>
     <title>基础语法和外挂标签（五）</title>
-    <link href="https://joblxs.github.io/36d0f558.html"/>
-    <id>https://joblxs.github.io/36d0f558.html</id>
+    <link href="https://blog.lxshuai.top/36d0f558.html"/>
+    <id>https://blog.lxshuai.top/36d0f558.html</id>
     <published>2024-04-15T13:54:50.000Z</published>
     <updated>2024-04-16T12:43:53.197Z</updated>
     
@@ -329,21 +329,21 @@
     
     
     
-    <category term="博客系统" scheme="https://joblxs.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <category term="博客系统" scheme="https://blog.lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="hexo" scheme="https://joblxs.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.lxshuai.top/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://joblxs.github.io/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://blog.lxshuai.top/tags/butterfly/"/>
     
-    <category term="markdown" scheme="https://joblxs.github.io/tags/markdown/"/>
+    <category term="markdown" scheme="https://blog.lxshuai.top/tags/markdown/"/>
     
   </entry>
   
   <entry>
     <title>主题魔改（四）</title>
-    <link href="https://joblxs.github.io/f3c2f2fb.html"/>
-    <id>https://joblxs.github.io/f3c2f2fb.html</id>
+    <link href="https://blog.lxshuai.top/f3c2f2fb.html"/>
+    <id>https://blog.lxshuai.top/f3c2f2fb.html</id>
     <published>2024-04-15T13:12:10.000Z</published>
     <updated>2024-04-16T12:43:34.003Z</updated>
     
@@ -354,19 +354,19 @@
     
     
     
-    <category term="博客系统" scheme="https://joblxs.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <category term="博客系统" scheme="https://blog.lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="hexo" scheme="https://joblxs.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.lxshuai.top/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://joblxs.github.io/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://blog.lxshuai.top/tags/butterfly/"/>
     
   </entry>
   
   <entry>
     <title>博客主题（三）</title>
-    <link href="https://joblxs.github.io/ef6c93e4.html"/>
-    <id>https://joblxs.github.io/ef6c93e4.html</id>
+    <link href="https://blog.lxshuai.top/ef6c93e4.html"/>
+    <id>https://blog.lxshuai.top/ef6c93e4.html</id>
     <published>2024-04-14T03:01:48.000Z</published>
     <updated>2024-04-16T15:32:39.564Z</updated>
     
@@ -377,19 +377,19 @@
     
     
     
-    <category term="博客系统" scheme="https://joblxs.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <category term="博客系统" scheme="https://blog.lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="hexo" scheme="https://joblxs.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.lxshuai.top/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://joblxs.github.io/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://blog.lxshuai.top/tags/butterfly/"/>
     
   </entry>
   
   <entry>
     <title>博客配置（二）</title>
-    <link href="https://joblxs.github.io/541e55cb.html"/>
-    <id>https://joblxs.github.io/541e55cb.html</id>
+    <link href="https://blog.lxshuai.top/541e55cb.html"/>
+    <id>https://blog.lxshuai.top/541e55cb.html</id>
     <published>2024-04-14T02:41:17.000Z</published>
     <updated>2024-04-16T15:23:00.015Z</updated>
     
@@ -400,17 +400,17 @@
     
     
     
-    <category term="博客系统" scheme="https://joblxs.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <category term="博客系统" scheme="https://blog.lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="hexo" scheme="https://joblxs.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.lxshuai.top/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>博客搭建（一）</title>
-    <link href="https://joblxs.github.io/4b241634.html"/>
-    <id>https://joblxs.github.io/4b241634.html</id>
+    <link href="https://blog.lxshuai.top/4b241634.html"/>
+    <id>https://blog.lxshuai.top/4b241634.html</id>
     <published>2024-04-14T02:30:26.000Z</published>
     <updated>2024-04-16T15:17:07.428Z</updated>
     
@@ -421,10 +421,10 @@
     
     
     
-    <category term="博客系统" scheme="https://joblxs.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <category term="博客系统" scheme="https://blog.lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
     
     
-    <category term="hexo" scheme="https://joblxs.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.lxshuai.top/tags/hexo/"/>
     
   </entry>
   
