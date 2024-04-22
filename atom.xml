@@ -6,7 +6,7 @@
   <link href="https://blog.lxshuai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.lxshuai.top/"/>
-  <updated>2024-04-18T13:49:35.003Z</updated>
+  <updated>2024-04-22T15:05:29.071Z</updated>
   <id>https://blog.lxshuai.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHub仓库同步gitee</title>
+    <link href="https://blog.lxshuai.top/a6ceafee.html"/>
+    <id>https://blog.lxshuai.top/a6ceafee.html</id>
+    <published>2024-04-22T14:50:42.000Z</published>
+    <updated>2024-04-22T15:05:29.071Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="新建仓库">新建仓库</h2><h3 id="在-GitHub-上创建一个新的仓库">在 GitHub 上创建一个新的仓库</h3><ol><li>登录 GitHub 账号</li><li>点击页面右上角的加号图标，选择“New repository”（新建仓库）</li><li>输入仓库名称和描述，选择公开或私有，并点击“Create repository”（创建仓库）按钮</li></ol><h3 id="在-Gitee-上创建一个新的仓库">在 Gitee 上创建一个新的仓库</h3><ol><li>登录 Gitee 账号</li><li>点击页面右上角的加号图标，选择“新建仓库”</li><li>输入仓库名称和描述，选择公开或私有，并点击“创建仓库”按钮</li></ol><h3 id="将本地项目关联到两个远程仓库">将本地项目关联到两个远程仓库</h3><ol><li>打开命令行界面，进入本地项目的根目录</li><li>执行以下命令将项目与 GitHub 和 Gitee 仓库关联</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git remote add github [GitHub 仓库 URL]</span><br><span class="line">git remote add gitee [Gitee 仓库 URL]</span><br></pre></td></tr></table></figure><h3 id="将代码推送到两个远程仓库">将代码推送到两个远程仓库</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git push github master</span><br><span class="line">git push gitee master</span><br></pre></td></tr></table></figure><h3 id="拉取代码">拉取代码</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git pull origin master</span><br><span class="line">git pull gitee master</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">一个项目同时上传至GitHub和gitee</summary>
+    
+    
+    
+    <category term="git" scheme="https://blog.lxshuai.top/categories/git/"/>
+    
+    
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="git" scheme="https://blog.lxshuai.top/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title>个人网址导航搭建</title>
@@ -190,11 +213,11 @@
     <category term="nodeJs" scheme="https://blog.lxshuai.top/categories/nodeJs/"/>
     
     
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
+    
     <category term="nvm" scheme="https://blog.lxshuai.top/tags/nvm/"/>
     
     <category term="nodeJs" scheme="https://blog.lxshuai.top/tags/nodeJs/"/>
-    
-    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
@@ -284,9 +307,9 @@
     <category term="服务器" scheme="https://blog.lxshuai.top/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
-    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
-    
     <category term="1panel" scheme="https://blog.lxshuai.top/tags/1panel/"/>
+    
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
     <category term="git" scheme="https://blog.lxshuai.top/tags/git/"/>
     
@@ -309,9 +332,9 @@
     <category term="服务器" scheme="https://blog.lxshuai.top/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
     
-    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
-    
     <category term="1panel" scheme="https://blog.lxshuai.top/tags/1panel/"/>
+    
+    <category term="安装/基础" scheme="https://blog.lxshuai.top/tags/%E5%AE%89%E8%A3%85-%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
