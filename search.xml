@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>集成分析统计（七）</title>
+      <link href="/db318e76.html"/>
+      <url>/db318e76.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><h2 id="目录">目录</h2><ol><li><a href="4b241634.html">博客搭建（一）</a></li><li><a href="541e55cb.html">博客配置（二）</a></li><li><a href="ef6c93e4.html">博客主题（三）</a></li><li><a href="f3c2f2fb.html">主题魔改（四）</a></li><li><a href="36d0f558.html">基础语法和外挂标签（五）</a></li><li><a href="2639b83a.html">文章生成统计图（六）</a>  ⇦您当前在此位置🪂</li></ol></blockquote><h2 id="百度数据统计">百度数据统计</h2><div class="note info flat"><p>百度统计:<a href="https://tongji.baidu.com/web/welcome/login">百度统计——一站式智能数据分析与应用平台 (baidu.com)</a></p></div><h3 id="添加网站">添加网站</h3><ol><li>点击<code>使用设置</code>–<code>网站列表</code>–<code>添加网站</code><br><img src="static/annex/Pasted%20image%2020240423215848.png" alt=""></li><li>填写相关信息<br><img src="static/annex/Pasted%20image%2020240423220145.png" alt=""></li><li>在代码获取处，复制代码<br><img src="static/annex/Pasted%20image%2020240423220905.png" alt=""></li><li>打开主题配置文件</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">baidu_analytics: <span class="comment">#输入你复制的代码</span></span><br></pre></td></tr></table></figure><p>…未完</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客系统 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> 魔改 </tag>
+            
+            <tag> ECharts </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>文章生成统计图（六）</title>
       <link href="/2639b83a.html"/>
       <url>/2639b83a.html</url>

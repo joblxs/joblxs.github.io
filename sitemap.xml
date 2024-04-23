@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lxshuai.top/db318e76.html</loc>
+    
+    <lastmod>2024-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.lxshuai.top/2639b83a.html</loc>
     
     <lastmod>2024-04-23</lastmod>
@@ -227,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/box/gallery/index.html</loc>
+    <loc>https://blog.lxshuai.top/box/animation/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -236,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/box/animation/index.html</loc>
+    <loc>https://blog.lxshuai.top/box/gallery/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -254,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/life/movies/index.html</loc>
+    <loc>https://blog.lxshuai.top/life/games/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -263,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/life/games/index.html</loc>
+    <loc>https://blog.lxshuai.top/life/movies/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -281,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/personal/about/index.html</loc>
+    <loc>https://blog.lxshuai.top/personal/bb/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -290,7 +299,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/personal/bb/index.html</loc>
+    <loc>https://blog.lxshuai.top/personal/about/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -414,14 +423,14 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/tags/share/</loc>
+    <loc>https://blog.lxshuai.top/tags/git/</loc>
     <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/tags/git/</loc>
+    <loc>https://blog.lxshuai.top/tags/share/</loc>
     <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

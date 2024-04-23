@@ -6,7 +6,7 @@
   <link href="https://blog.lxshuai.top/atom.xml" rel="self"/>
   
   <link href="https://blog.lxshuai.top/"/>
-  <updated>2024-04-23T13:39:35.709Z</updated>
+  <updated>2024-04-23T14:24:00.579Z</updated>
   <id>https://blog.lxshuai.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>集成分析统计（七）</title>
+    <link href="https://blog.lxshuai.top/db318e76.html"/>
+    <id>https://blog.lxshuai.top/db318e76.html</id>
+    <published>2024-04-23T13:50:37.000Z</published>
+    <updated>2024-04-23T14:24:00.579Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h2 id="目录">目录</h2><ol><li><a href="4b241634.html">博客搭建（一）</a></li><li><a href="541e55cb.html">博客配置（二）</a></li><li><a href="ef6c93e4.html">博客主题（三）</a></li><li><a href="f3c2f2fb.html">主题魔改（四）</a></li><li><a href="36d0f558.html">基础语法和外挂标签（五）</a></li><li><a href="2639b83a.html">文章生成统计图（六）</a>  ⇦您当前在此位置🪂</li></ol></blockquote><h2 id="百度数据统计">百度数据统计</h2><div class="note info flat"><p>百度统计:<a href="https://tongji.baidu.com/web/welcome/login">百度统计——一站式智能数据分析与应用平台 (baidu.com)</a></p></div><h3 id="添加网站">添加网站</h3><ol><li>点击<code>使用设置</code>–<code>网站列表</code>–<code>添加网站</code><br><img src="static/annex/Pasted%20image%2020240423215848.png" alt=""></li><li>填写相关信息<br><img src="static/annex/Pasted%20image%2020240423220145.png" alt=""></li><li>在代码获取处，复制代码<br><img src="static/annex/Pasted%20image%2020240423220905.png" alt=""></li><li>打开主题配置文件</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">baidu_analytics: <span class="comment">#输入你复制的代码</span></span><br></pre></td></tr></table></figure><p>…未完</p>]]></content>
+    
+    
+    <summary type="html">集成百度统计等</summary>
+    
+    
+    
+    <category term="博客系统" scheme="https://blog.lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="hexo" scheme="https://blog.lxshuai.top/tags/hexo/"/>
+    
+    <category term="魔改" scheme="https://blog.lxshuai.top/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="ECharts" scheme="https://blog.lxshuai.top/tags/ECharts/"/>
+    
+  </entry>
   
   <entry>
     <title>文章生成统计图（六）</title>
@@ -449,27 +474,6 @@
     
     
     <summary type="html">博客基础配置</summary>
-    
-    
-    
-    <category term="博客系统" scheme="https://blog.lxshuai.top/categories/%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
-    
-    
-    <category term="hexo" scheme="https://blog.lxshuai.top/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博客搭建（一）</title>
-    <link href="https://blog.lxshuai.top/4b241634.html"/>
-    <id>https://blog.lxshuai.top/4b241634.html</id>
-    <published>2024-04-14T02:30:26.000Z</published>
-    <updated>2024-04-23T13:37:43.476Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><h2 id="前言-📝">前言 <strong>📝</strong></h2><p>本博客搭建参考于大佬<a href="https://github.com/fomalhaut1998/hexo-theme-Fomalhaut">hexo-theme-Fomalhaut:</a>的开源项目，此文档主要用来自己熟悉hexo搭建和一些基本用法。</p><h2 id="目录-🚥">目录 <strong>🚥</strong></h2><ol><li><a href="4b241634.html">博客搭建（一）</a>  ⇦您当前在此位置🪂</li><li><a href="541e55cb.html">博客配置（二）</a></li><li><a href="ef6c93e4.html">博客主题（三）</a></li><li><a href="f3c2f2fb.html">主题魔改（四）</a></li><li><a href="36d0f558.html">基础语法和外挂标签（五）</a></li><li><a href="2639b83a.html">文章生成统计图（六）</a></li></ol></blockquote><h2 id="环境与工具">环境与工具</h2><ul><li>git <a href="19f14bf8.html">本地安装和配置git</a></li><li>gitHub <a href="1927d27d.html">本地上传项目至GitHub</a></li><li>node（v14.20.0） <a href="5ae7bcc9.html">nvm下载安装及node版本管理</a></li><li>文本编辑器，如vscode <a href="298f1f26.html">vsCode安装和基本配置</a></li><li>hexo （v6.3.0）</li></ul><h2 id="安装hexo">安装hexo</h2><ol><li>在任意目录执行</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413004902.png" alt=""><br>2. 添加环境变量<br><img src="static/annex/Pasted%20image%2020240413005320.png" alt=""><br><img src="static/annex/Pasted%20image%2020240413005346.png" alt=""><br>3. 执行命令</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413005412.png" alt=""></p><h2 id="初始化博客项目">初始化博客项目</h2><ol><li>在目标路径（我这里选的路径为【P:/NodeJs/WWW/blog】）执行命令</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init blog-x(项目名)</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413164736.png" alt=""><br>2. 进入blog-x，输入命令安装依赖</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> blog-x</span><br><span class="line">npm i</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413165015.png" alt=""><br>3. 目录如下<br><img src="static/annex/Pasted%20image%2020240413165425.png" alt=""><br>4. 输入命令，启动项目（或<code>hexo server</code>）</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413165505.png" alt=""><br>5. 浏览器打开<code>http://localhost:4000</code>，出现如下页面，初始化成功<br><img src="static/annex/Pasted%20image%2020240413165656.png" alt=""></p><h2 id="将静态博客挂载到-GitHub-Pages">将静态博客挂载到 GitHub Pages</h2><h3 id="GitHub创建项目">GitHub创建项目</h3><ol><li>打开GitHub，点击右上角的<code>+</code>按钮，选择<code>New repository</code>，创建一个<code>&lt;用户名&gt;.github.io</code>的仓库</li><li>仓库的格式必须为：<code>&lt;用户名&gt;.github.io</code> (注意：前缀必须为用户名，不要等后面404了再来为什么！！！)</li><li>Description：为描述仓库（选填）</li><li>勾选 Initialize this repository with a README 初始化一个 <a href="http://README.md">README.md</a> 文件</li><li>点击 Creat repository 进行创建<br><img src="static/annex/Pasted%20image%2020240413172836.png" alt=""></li></ol><h3 id="安装-hexo-deployer-git">安装 hexo-deployer-git</h3><ol><li>输入命令</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413165858.png" alt=""><br>2. 修改 config.yml 文件</p><ul><li>在blog-demo目录下的config.yml，就是整个Hexo框架的配置文件了。可以在里面修改大部分的配置。详细可参考官方的配置描述。</li><li>修改最后一行的配置，将repository修改为你自己的github项目地址即可，还有分支要改为main代表主分支（注意缩进）。</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  <span class="built_in">type</span>: git</span><br><span class="line">  repository: git@github.com:joblxs/joblxs.github.io.git</span><br><span class="line">  branch: main</span><br></pre></td></tr></table></figure><p><img src="static/annex/Pasted%20image%2020240413172949.png" alt=""><br>3. 修改好配置后，运行如下命令，将代码部署到 GitHub</p><ul><li>hexo clean：删除之前生成的文件，若未生成过静态文件，可忽略此命令。</li><li>hexo generate：生成静态文章，可以用<code>hexo g</code>缩写</li><li>hexo deploy：部署文章，可以用<code>hexo d</code>缩写</li></ul><div class="tabs" id="分栏"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#分栏-1">Git BASH终端</button></li><li class="tab"><button type="button" data-href="#分栏-2">VSCODE终端</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="分栏-1"><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="分栏-2"><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean; hexo generate; hexo deploy</span><br></pre></td></tr></table></figure><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><p><img src="static/annex/Pasted%20image%2020240413173103.png" alt=""><br>4. 出现<code>Deploy done</code>，部署成功<br><img src="static/annex/Pasted%20image%2020240413173113.png" alt=""><br>5. GitHub更新成功<br><img src="static/annex/Pasted%20image%2020240413173150.png" alt=""><br>6. 稍等两分钟，打开浏览器访问：<a href="https://joblxs.github.io/">Hexo (joblxs.github.io)</a> ，这时候我们就可以看到博客内容了。<br><img src="static/annex/Pasted%20image%2020240413173313.png" alt=""></p>]]></content>
-    
-    
-    <summary type="html">博客基础搭建文档</summary>
     
     
     
