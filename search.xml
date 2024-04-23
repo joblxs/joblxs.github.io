@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>网站监控预警</title>
+      <link href="/ff033843.html"/>
+      <url>/ff033843.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="UptimeRobot">UptimeRobot</h2><div class="note info flat"><p>网址:<a href="https://uptimerobot.com/integrations/">Integrations &amp; Notifications | UptimeRobot</a></p></div><ol><li>打开网址，注册账号<br><img src="static/annex/Pasted%20image%2020240423231106.png" alt=""></li><li>添加要监控的站点<br><img src="static/annex/Pasted%20image%2020240423231442.png" alt=""></li><li>添加完成界面<br><img src="static/annex/Pasted%20image%2020240423232610.png" alt=""></li></ol><h2 id="获取API-Key">获取API Key</h2><ol><li>转到旧网页<br><img src="static/annex/Pasted%20image%2020240423233725.png" alt=""></li><li>在 <code>My Settings</code> 页面获取 类型为 <code>Read-Only API Key</code> 的 <code>API Key</code><br><img src="static/annex/Pasted%20image%2020240423233857.png" alt=""></li><li>复制<code>API Key</code>备用</li></ol><h2 id="添加至个人服务器">添加至个人服务器</h2><div class="note info flat"><p>GitHub:<a href="https://github.com/imsyy/site-status">imsyy/site-status: 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | </a></p></div><h3 id="克隆到本地">克隆到本地</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/imsyy/site-status.git</span><br></pre></td></tr></table></figure><h3 id="安装所需依赖">安装所需依赖</h3><ol><li>安装依赖</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 若没有 pnpm</span></span><br><span class="line">npm install pnpm -g</span><br><span class="line"></span><br><span class="line"><span class="comment"># 安装依赖</span></span><br><span class="line">pnpm install</span><br></pre></td></tr></table></figure><ol start="2"><li>本地调试</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pnpm dev</span><br></pre></td></tr></table></figure><ol start="3"><li>打包</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pnpm build</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 监控预警 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 监控预警 </tag>
+            
+            <tag> UptimeRobot </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>集成分析统计（七）</title>
       <link href="/db318e76.html"/>
       <url>/db318e76.html</url>
