@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lxshuai.top/personal/about/index.html</loc>
+    
+    <lastmod>2024-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.lxshuai.top/categories/index.html</loc>
     
     <lastmod>2024-04-25</lastmod>
@@ -272,15 +281,6 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/box/nav/index.html</loc>
-    
-    <lastmod>2024-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.lxshuai.top/box/gallery/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
@@ -290,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/personal/about/index.html</loc>
+    <loc>https://blog.lxshuai.top/box/nav/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -300,6 +300,15 @@
   
   <url>
     <loc>https://blog.lxshuai.top/life/games/index.html</loc>
+    
+    <lastmod>2024-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lxshuai.top/life/music/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -335,7 +344,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/life/music/index.html</loc>
+    <loc>https://blog.lxshuai.top/social/fcircle/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -345,15 +354,6 @@
   
   <url>
     <loc>https://blog.lxshuai.top/social/link/index.html</loc>
-    
-    <lastmod>2024-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lxshuai.top/social/fcircle/index.html</loc>
     
     <lastmod>2024-04-16</lastmod>
     
@@ -469,13 +469,6 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/tags/GitHub/</loc>
-    <lastmod>2024-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.lxshuai.top/tags/Webstack/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -483,7 +476,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/tags/ECharts/</loc>
+    <loc>https://blog.lxshuai.top/tags/GitHub/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -498,6 +491,13 @@
   
   <url>
     <loc>https://blog.lxshuai.top/tags/UptimeRobot/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lxshuai.top/tags/ECharts/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -548,14 +548,14 @@
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/categories/%E5%85%B6%E5%AE%83/</loc>
+    <loc>https://blog.lxshuai.top/categories/editor/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.lxshuai.top/categories/editor/</loc>
+    <loc>https://blog.lxshuai.top/categories/%E5%85%B6%E5%AE%83/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
