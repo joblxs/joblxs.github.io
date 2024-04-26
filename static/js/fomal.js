@@ -3159,10 +3159,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(/static/img/dm14.webp);
-    --darkmode-bg:url(/static/img/yuanshen1.webp);
-    --mobileday-bg: url(/static/img/snow.webp);
-    --mobilenight-bg: url(/static/img/mb8.webp);
+    --default-bg: url(/static/img/fengjing/fengjing20.jpg);
+    --darkmode-bg:url(/static/img/xingkong/xingkong02.jpg);
+    --mobileday-bg: url(/static/img/shouji/shouji14.jpg);
+    --mobilenight-bg: url(/static/img/shouji/shouji15.jpg);
   }`;
 }
 // 切换背景主函数
@@ -3389,27 +3389,27 @@ function createWinbox() {
 <h2>四、背景设置</h2>
 <center><button onclick="resetBg()" style="background:var(--theme-color);display:block;width:35%;padding:15px 0;border-radius:30px;color:white;"><i class="fa-solid fa-arrows-rotate"></i>&nbsp;恢复默认背景</button></center>
 
-<h3>1. 二次元</h3>
-<details class="folding-tag" cyan><summary> 查看二次元背景 </summary>
-              <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/home_bg.webp)" class="imgbox" onclick="changeBg('url(/static/img/home_bg.webp)')"></a></div>
-              </div>
-            </details>
-
-
-<h3>2. 风景</h3>
-
+<h3>1. 风景</h3>
 <details class="folding-tag" cyan><summary> 查看风景背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/fj1.webp)" class="imgbox" onclick="changeBg('url(/static/img/fj1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/fengjing/fengjing01.jpg)" class="imgbox" onclick="changeBg('url(/static/img/fengjing/fengjing01.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/fengjing/fengjing02.jpg)" class="imgbox" onclick="changeBg('url(/static/img/fengjing/fengjing02.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/fengjing/fengjing04.jpg)" class="imgbox" onclick="changeBg('url(/static/img/fengjing/fengjing04.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/fengjing/fengjing05.jpg)" class="imgbox" onclick="changeBg('url(/static/img/fengjing/fengjing05.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/fengjing/fengjing06.jpg)" class="imgbox" onclick="changeBg('url(/static/img/fengjing/fengjing06.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/fengjing/fengjing07.jpg)" class="imgbox" onclick="changeBg('url(/static/img/fengjing/fengjing07.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/fengjing/fengjing09.jpg)" class="imgbox" onclick="changeBg('url(/static/img/fengjing/fengjing09.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/fengjing/fengjing11.jpg)" class="imgbox" onclick="changeBg('url(/static/img/fengjing/fengjing11.jpg)')"></a></div>
               </div>
             </details>
 
-<h3>3. 萌宠</h3>
 
-<details class="folding-tag" cyan><summary> 查看萌宠背景 </summary>
+<h3>2. 动漫</h3>
+
+<details class="folding-tag" cyan><summary> 查看动漫背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/mc1.webp)" class="imgbox" onclick="changeBg('url(/static/img/mc1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/dongman/dongman01.jpg)" class="imgbox" onclick="changeBg('url(/static/img/dongman/dongman01.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/dongman/dongman02.jpg)" class="imgbox" onclick="changeBg('url(/static/img/dongman/dongman02.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/dongman/dongman03.jpg)" class="imgbox" onclick="changeBg('url(/static/img/dongman/dongman03.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/dongman/dongman04.jpg)" class="imgbox" onclick="changeBg('url(/static/img/dongman/dongman04.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/dongman/dongman05.jpg)" class="imgbox" onclick="changeBg('url(/static/img/dongman/dongman05.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/dongman/dongman06.jpg)" class="imgbox" onclick="changeBg('url(/static/img/dongman/dongman06.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/dongman/dongman08.jpg)" class="imgbox" onclick="changeBg('url(/static/img/dongman/dongman08.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/dongman/dongman09.jpg)" class="imgbox" onclick="changeBg('url(/static/img/dongman/dongman09.jpg)')"></a></div>
+              </div>
+            </details>
+
+<h3>3. 汽车</h3>
+
+<details class="folding-tag" cyan><summary> 查看汽车背景 </summary>
+              <div class='content'>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/qiche/qiche01.jpg)" class="imgbox" onclick="changeBg('url(/static/img/qiche/qiche01.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/qiche/qiche02.jpg)" class="imgbox" onclick="changeBg('url(/static/img/qiche/qiche02.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/qiche/qiche03.jpg)" class="imgbox" onclick="changeBg('url(/static/img/qiche/qiche03.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/qiche/qiche05.jpg)" class="imgbox" onclick="changeBg('url(/static/img/qiche/qiche05.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/qiche/qiche06.jpg)" class="imgbox" onclick="changeBg('url(/static/img/qiche/qiche06.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/qiche/qiche08.jpg)" class="imgbox" onclick="changeBg('url(/static/img/qiche/qiche08.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/qiche/qiche11.jpg)" class="imgbox" onclick="changeBg('url(/static/img/qiche/qiche11.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/qiche/qiche12.jpg)" class="imgbox" onclick="changeBg('url(/static/img/qiche/qiche12.jpg)')"></a></div>
               </div>
             </details>
 
@@ -3433,7 +3433,7 @@ function createWinbox() {
 <h3>6. 适配手机</h3>
 <details class="folding-tag" cyan><summary> 查看适配手机的背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/mb4.webp)" class="pimgbox" onclick="changeBg('url(/static/img/mb4.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/shouji/shouji02.jpg)" class="pimgbox" onclick="changeBg('url(/static/img/shouji/shouji02.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/shouji/shouji03.jpg)" class="pimgbox" onclick="changeBg('url(/static/img/shouji/shouji03.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/shouji/shouji04.jpg)" class="pimgbox" onclick="changeBg('url(/static/img/shouji/shouji04.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/shouji/shouji05.jpg)" class="pimgbox" onclick="changeBg('url(/static/img/shouji/shouji05.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/shouji/shouji07.jpg)" class="pimgbox" onclick="changeBg('url(/static/img/shouji/shouji07.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/shouji/shouji08.jpg)" class="pimgbox" onclick="changeBg('url(/static/img/shouji/shouji08.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/shouji/shouji10.jpg)" class="pimgbox" onclick="changeBg('url(/static/img/shouji/shouji10.jpg)')"></a><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(/static/img/shouji/shouji13.jpg)" class="pimgbox" onclick="changeBg('url(/static/img/shouji/shouji13.jpg)')"></a></div>
               </div>
             </details>
 
